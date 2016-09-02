@@ -1,2 +1,2 @@
-### PhD projects
+PhD projects
 
