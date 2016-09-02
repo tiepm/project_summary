@@ -1,0 +1,129 @@
+Topic: 1| cluster_index: 63| word_count: 120.0| weighted_label: Septet_(Beethoven)
+    Septet_(Beethoven): -2.29063286016
+    Quintet_for_Piano_and_Winds_(Mozart): -2.30402571757
+    Beethoven's_musical_style: -2.32448866272
+    Beethoven_and_Mozart: -2.38868483968
+    Christ_on_the_Mount_of_Olives_(Beethoven): -2.71859730722
+    Allgemeine_musikalische_Zeitung: -2.78687155044
+    Immortal_Beloved: -2.78699664988
+    Piano_sonatas_(Beethoven): -2.84534720437
+    List_of_compositions_by_Ludwig_van_Beethoven: -2.86559870302
+    Piano_Trios,_Op._70_(Beethoven): -2.98180446768
+    Missa_solemnis_(Beethoven): -3.02078053547
+Topic: 2| cluster_index: 64| word_count: 91.0| weighted_label: Opus_number
+    Opus_number: -0.285567932892
+    String_quintet: -0.285567932892
+Topic: 3| cluster_index: 51| word_count: 68.0| weighted_label: Adolescence
+    Adolescence: -0.0
+Topic: 4| cluster_index: 44| word_count: 68.0| weighted_label: Nonsyndromic_deafness
+    Nonsyndromic_deafness: -0.0
+Topic: 5| cluster_index: 65| word_count: 36.0| weighted_label: Nannerl_Notenbuch
+    Nannerl_Notenbuch: -0.258614593216
+    List_of_compositions_by_Wolfgang_Amadeus_Mozart: -0.258614593216
+Topic: 6| cluster_index: 60| word_count: 36.0| weighted_label: Orchestra
+    Orchestra: -0.539595332733
+    Chamber_music: -0.577008868751
+    Classical_music: -0.604511655334
+Topic: 7| cluster_index: 59| word_count: 32.0| weighted_label: Choral_symphony
+    Choral_symphony: -0.30345084231
+    Program_music: -0.30345084231
+Topic: 8| cluster_index: 61| word_count: 31.0| weighted_label: The_Well-Tempered_Clavier
+    The_Well-Tempered_Clavier: -0.572046535291
+    Classical_period_(music): -0.585504000548
+    Piano_Sonata_No._14_(Beethoven): -0.598015791353
+Topic: 9| cluster_index: 35| word_count: 20.0| weighted_label: Writing
+    Writing: -0.0
+Topic: 10| cluster_index: 23| word_count: 19.0| weighted_label: Piano_Concerto_(Busoni)
+    Piano_Concerto_(Busoni): -0.0
+Topic: 11| cluster_index: 36| word_count: 19.0| weighted_label: Work_of_art
+    Work_of_art: -0.0
+Topic: 12| cluster_index: 55| word_count: 18.0| weighted_label: Electorate_of_Cologne
+    Electorate_of_Cologne: -0.874977905453
+    Electorate_of_Bavaria: -0.967186393864
+    Roman_Catholic_Diocese_of_Trier: -0.980416339809
+    Holy_Roman_Empire: -1.00865469198
+Topic: 13| cluster_index: 56| word_count: 17.0| weighted_label: Music_education
+    Music_education: -0.325491571001
+    Musicology: -0.325491571001
+Topic: 14| cluster_index: 53| word_count: 15.0| weighted_label: Piano
+    Piano: -0.0
+Topic: 15| cluster_index: 24| word_count: 14.0| weighted_label: Mozart_in_Italy
+    Mozart_in_Italy: -0.0
+Topic: 16| cluster_index: 58| word_count: 13.0| weighted_label: Bonn
+    Bonn: -0.308930721663
+    Cologne: -0.308930721663
+Topic: 17| cluster_index: 67| word_count: 13.0| weighted_label: Vienna
+    Vienna: -0.241629621518
+    Austria: -0.241629621518
+Topic: 18| cluster_index: 41| word_count: 13.0| weighted_label: Variations_on_a_Theme_by_Haydn
+    Variations_on_a_Theme_by_Haydn: -0.0
+Topic: 19| cluster_index: 66| word_count: 12.0| weighted_label: House_of_Waldstein
+    House_of_Waldstein: -0.257902464784
+    House_of_Lobkowicz: -0.257902464784
+Topic: 20| cluster_index: 30| word_count: 11.0| weighted_label: Music_director
+    Music_director: -0.0
+Topic: 21| cluster_index: 25| word_count: 11.0| weighted_label: Christmas
+    Christmas: -0.0
+Topic: 22| cluster_index: 20| word_count: 10.0| weighted_label: Hannoversche_Hofkapelle
+    Hannoversche_Hofkapelle: -0.0
+Topic: 23| cluster_index: 52| word_count: 9.0| weighted_label: Friendship
+    Friendship: -0.0
+Topic: 24| cluster_index: 42| word_count: 8.0| weighted_label: Joseph_and_his_Brethren
+    Joseph_and_his_Brethren: -0.0
+Topic: 25| cluster_index: 18| word_count: 8.0| weighted_label: Financier
+    Financier: -0.0
+Topic: 26| cluster_index: 39| word_count: 8.0| weighted_label: Aging_of_wine
+    Aging_of_wine: -0.0
+Topic: 27| cluster_index: 33| word_count: 8.0| weighted_label: Musical_theatre
+    Musical_theatre: -0.0
+Topic: 28| cluster_index: 28| word_count: 8.0| weighted_label: Progeroid_syndromes
+    Progeroid_syndromes: -0.0
+Topic: 29| cluster_index: 45| word_count: 6.0| weighted_label: Hearing_loss
+    Hearing_loss: -0.0
+Topic: 30| cluster_index: 68| word_count: 6.0| weighted_label: Autoimmune_disease
+    Autoimmune_disease: -0.209367403008
+    Systemic_lupus_erythematosus: -0.209367403008
+Topic: 31| cluster_index: 48| word_count: 6.0| weighted_label: Late_works_of_Franz_Liszt
+    Late_works_of_Franz_Liszt: -0.0
+Topic: 32| cluster_index: 37| word_count: 5.0| weighted_label: Catholic_Church_in_England_and_Wales
+    Catholic_Church_in_England_and_Wales: -0.0
+Topic: 33| cluster_index: 31| word_count: 4.0| weighted_label: Germans
+    Germans: -0.0
+Topic: 34| cluster_index: 57| word_count: 4.0| weighted_label: Romanticism
+    Romanticism: -0.312155901321
+    Age_of_Enlightenment: -0.312155901321
+Topic: 35| cluster_index: 62| word_count: 3.0| weighted_label: Burgtheater
+    Burgtheater: -0.296386156809
+    Theater_an_der_Wien: -0.296386156809
+Topic: 36| cluster_index: 47| word_count: 2.0| weighted_label: Kapellmeister
+    Kapellmeister: -0.0
+Topic: 37| cluster_index: 22| word_count: 2.0| weighted_label: London
+    London: -0.0
+Topic: 38| cluster_index: 19| word_count: 2.0| weighted_label: Oxford_Art_Online
+    Oxford_Art_Online: -0.0
+Topic: 39| cluster_index: 54| word_count: 2.0| weighted_label: List_of_Viennese
+    List_of_Viennese: -0.0
+Topic: 40| cluster_index: 43| word_count: 2.0| weighted_label: Christmas_Oratorio
+    Christmas_Oratorio: -0.0
+Topic: 41| cluster_index: 50| word_count: 1.0| weighted_label: Table_of_contents
+    Table_of_contents: -0.0
+Topic: 42| cluster_index: 46| word_count: 1.0| weighted_label: Accompaniment
+    Accompaniment: -0.0
+Topic: 43| cluster_index: 49| word_count: 1.0| weighted_label: Citation
+    Citation: -0.0
+Topic: 44| cluster_index: 34| word_count: 1.0| weighted_label: Theater_(structure)
+    Theater_(structure): -0.0
+Topic: 45| cluster_index: 38| word_count: 1.0| weighted_label: England_in_the_Middle_Ages
+    England_in_the_Middle_Ages: -0.0
+Topic: 46| cluster_index: 32| word_count: 1.0| weighted_label: Prometheus_(Goethe)
+    Prometheus_(Goethe): -0.0
+Topic: 47| cluster_index: 29| word_count: 1.0| weighted_label: Review
+    Review: -0.0
+Topic: 48| cluster_index: 27| word_count: 1.0| weighted_label: Patronage
+    Patronage: -0.0
+Topic: 49| cluster_index: 26| word_count: 1.0| weighted_label: Mechelen
+    Mechelen: -0.0
+Topic: 50| cluster_index: 21| word_count: 1.0| weighted_label: France
+    France: -0.0
+Topic: 51| cluster_index: 40| word_count: 1.0| weighted_label: Cooper_(profession)
+    Cooper_(profession): -0.0

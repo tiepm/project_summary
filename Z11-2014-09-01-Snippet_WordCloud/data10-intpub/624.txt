@@ -1,0 +1,50 @@
+####
+﻿Image and Video Compression (H.264/AVC, SVC, H.265/HEVC, VP8, JPEG2000…)
+Interactive and Immersive Media Transmission
+Multi-view Video plus Depth and Free Viewpoint Video
+3D Mesh Compression and Watermarking
+&&&&
+His current research interests are related to multimedia compression and processing, interactive and immersive media delivery as well as multimedia security
+@@@@
+Interactive Omni-directional Video Delivery: a Bandwidth-Effective Approach
+From 3D Mesh Data Hiding to 3D Shape Blind and Robust Watermarking: A Survey
+Application of spectral decomposition to compression and watermarking of 3D triangle mesh geometry
+ Fast Surface-Based Travel Depth Estimation Algorithm for Macromolecule Surface Shape Description, 
+ Impact of Random and Burst Packet Losses on H.264 Scalable Video Coding, 
+ Adaptive Coding of High-resolution Panoramic Video Using Visual Saliency, 
+ A hybrid architecture for delivery of panoramic video, 
+ Impact of Packet Loss on H.264 Scalable Video Coding, 
+ Perceived Quality of 3D Human Head Scans at Varying Texture and Mesh Resolutions, 
+ Multiview Video Coding Using Video Game Context Information, 
+Evaluation of Bandwidth Performance for Interactive Spherical Video,
+Low Complexity Corner Detector Using CUDA for Multimedia Applications
+3D objects Watermarking and tracking of their visual representations
+ Towards Scalable And Interactive Delivery of Immersive Media, 
+Integrated H.264 Region-of-Interest detection, tracking, and compression for surveillance scenes
+Using feature point-based extraction for STDM 3D-mesh watermarking that withstands the cropping attack
+ Fast Mode Decision for H.264/AVC Encoding of Tunnel Surveillance Video, 
+ Constrained optimisation of 3D polygonal mesh watermarking by quadratic programming, 
+ Scalable Delivery of Navigable and Ultra‐High Resolution Video, 
+ T-flash: Tensor Visualization in Medical Studio, 
+Fast and accurate travel depth estimation for protein active site prediction
+ Perception and Re-Synchronization Issues for the Watermarking of 3D Shapes
+Shape Quality Measurement for 3D Watermarking Schemes
+Feature-Based Watermarking of 3D Objetcs: Towards Robustness Against Remeshing and De-synchronization
+Three-Dimensional Image Quality Measurement For The Benchmarking Of 3D Watermarking Schemes
+OpenTopology: A Toolkit for Brain Isosurface Correction
+Blind Watermarking of 3D Meshes Using Robust Feature Points Detection
+Lapped Spectral Decomposition for 3D triangle Mesh Compression
+Spectral decomposition of meshes and application to watermarking
+Compression and watermarking of 3D triangle meshes
+Scalable Delivery of Navigable and Ultra‐High Resolution Video
+T-flash: Tensor Visualization in Medical Studio
+Perception and Re-Synchronization Issues for the Watermarking of 3D Shapes
+A method, server and terminal for generating a composite view from multiple content items
+Method and apparatus for transmitting and receiving a panoramic video stream.
+Method And Apparatus For Encoding A Video Stream Having A Transparency Information Channel
+Methods And Apparatus For Encoding And Decoding A Multiview Video Stream
+Method and Apparatus For Encoding A Video Stream.
+Method and apparatus for encoding a selected spatial portion of a video stream.
+Method and apparatus for mixing a first video signal and a second video signal
+Method and system for generating a high-resolution video stream.
+Method and apparatus for dynamic adaptation of video encoder parameters

@@ -1,0 +1,28 @@
+Topic: 1| cluster_index: 11| word_count: 81.0| weighted_label: Dijkstra's_algorithm
+    Dijkstra's_algorithm: -0.686991785224
+    Fibonacci_heap: -0.800191457926
+    Shortest_path_problem: -0.861623637384
+    Priority_queue: -0.933171430144
+    Graph_traversal: -0.967746907944
+Topic: 2| cluster_index: 12| word_count: 35.0| weighted_label: Vertex_(graph_theory)
+    Vertex_(graph_theory): -0.202173784493
+    Distance_(graph_theory): -0.202173784493
+Topic: 3| cluster_index: 9| word_count: 26.0| weighted_label: Graph_coloring
+    Graph_coloring: -0.0
+Topic: 4| cluster_index: 8| word_count: 23.0| weighted_label: Summation
+    Summation: -0.0
+Topic: 5| cluster_index: 5| word_count: 19.0| weighted_label: Online_algorithm
+    Online_algorithm: -0.0
+Topic: 6| cluster_index: 2| word_count: 9.0| weighted_label: Start_Point_(Livingston_Island)
+    Start_Point_(Livingston_Island): -0.0
+Topic: 7| cluster_index: 3| word_count: 8.0| weighted_label: Computer_science
+    Computer_science: -0.0
+Topic: 8| cluster_index: 7| word_count: 5.0| weighted_label: Natural_number
+    Natural_number: -0.0
+Topic: 9| cluster_index: 10| word_count: 2.0| weighted_label: Reference_(computer_science)
+    Reference_(computer_science): -0.238701734732
+    Control_flow: -0.238701734732
+Topic: 10| cluster_index: 4| word_count: 1.0| weighted_label: Open_Shortest_Path_First
+    Open_Shortest_Path_First: -0.0
+Topic: 11| cluster_index: 6| word_count: 1.0| weighted_label: Pseudocode
+    Pseudocode: -0.0

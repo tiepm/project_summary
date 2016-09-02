@@ -1,0 +1,67 @@
+Ubuntu (/uːˈbuːntuː/ oo-BOON-too)[7][8][9] is a Debian-based Linux operating system, with Unity as its default desktop environment (GNOME was the previous desktop environment). It is based on free software and named after the Southern African philosophy of ubuntu (literally, "human-ness"), which often is translated as "humanity towards others" or "the belief in a universal bond of sharing that connects all humanity".[10]
+
+According to some metrics, Ubuntu is the most popular desktop Linux distribution to date. See Installed base section.
+
+Development of Ubuntu is led by Canonical Ltd.,[11] a company owned by South African entrepreneur Mark Shuttleworth. Canonical generates revenue through the sale of technical support and other services related to Ubuntu.[12][13] The Ubuntu project is publicly committed to the principles of open source development; people are encouraged to use free software, study how it works, improve upon it, and distribute it.[14][15]
+
+Contents
+
+    1 Features
+    2 History and development process
+        2.1 System requirements
+        2.2 Installation
+    3 Package classification and support
+        3.1 Availability of third-party software
+    4 Releases
+    5 Variants
+        5.1 Ubuntu Server
+        5.2 Cloud computing
+    6 Development
+    7 Adoption and reception
+        7.1 Installed base
+            7.1.1 Publicized large-scale deployments
+        7.2 Critical reception
+            7.2.1 Amazon controversy
+        7.3 China
+    8 Local communities (LoCos)
+    9 Vendor support
+    10 See also
+    11 References
+    12 Bibliography
+    13 External links
+
+Features
+
+A default installation of Ubuntu contains a wide range of software that includes LibreOffice, Firefox, Empathy, Transmission, and several lightweight games such as Sudoku and chess.[16][17] Many additional software packages, including titles no longer in the default installation such as Evolution, GIMP, Pidgin, and Synaptic, are accessible from the built in Ubuntu Software Center as well as any other APT based package management tool. Execution of Microsoft Office and other Microsoft Windows applications can be facilitated via the Wine compatibility package or through the use of a virtual machine such as VirtualBox or VMware Workstation.
+
+The Ubiquity installer allows Ubuntu to be installed to the hard disk from within the Live CD environment.
+
+For increased security, the sudo tool is used to assign temporary privileges for performing administrative tasks, allowing the root account to remain locked, and preventing inexperienced users from inadvertently making catastrophic system changes or opening security holes.[18] PolicyKit is also being widely implemented into the desktop to further harden the system through the principle of least privilege.
+
+Ubuntu can close its own network ports using its own firewall software. End-users can install Gufw (GUI for Uncomplicated Firewall) and keep it enabled.[19]
+
+Ubuntu compiles its packages using GCC features such as PIE and buffer overflow protection to harden its software.[20] These extra features greatly increase security at the performance expense of 1% in 32 bit and 0.01% in 64 bit.[21]
+
+Beginning with Ubuntu 5.04, UTF-8 became the default character encoding,[22] which allows for support of a variety of non-Roman scripts.
+History and development process
+
+Ubuntu is built on Debian's architecture and infrastructure, to provide Linux server, desktop, phone, tablet and TV operating systems.[23] Ubuntu releases updated versions predictably — every six months[8] — and each release receives free support for nine months (eighteen months prior to 13.04)[24] with security fixes, high-impact bug fixes and conservative, substantially beneficial low-risk bug fixes.[25] The first release was on October 2004.
+
+It was decided that every fourth release, issued on a two-year basis, would receive long-term support (LTS).[8] Long term support includes updates for new hardware, security patches and updates to the 'Ubuntu stack' (cloud computing infrastructure).[13] The first LTS releases were supported for three years on the desktop and five years on the server; since Ubuntu 12.04 LTS, desktop support for LTS releases was increased to five years as well.[26][27][28] LTS releases get regular point releases with support for new hardware and integration of all the updates published in that series to date.[29]
+
+Ubuntu packages are based on packages from Debian's unstable branch: both distributions use Debian's deb package format and package management tools (APT and Ubuntu Software Center). Debian and Ubuntu packages are not necessarily binary compatible with each other, however; packages may need to be rebuilt from source to be used in Ubuntu.[30] Many Ubuntu developers are also maintainers of key packages within Debian. Ubuntu cooperates with Debian by pushing changes back to Debian,[31] although there has been criticism that this does not happen often enough. Ian Murdock, the founder of Debian, has expressed concern about Ubuntu packages potentially diverging too far from Debian to remain compatible.[32] Before release, packages are imported from Debian Unstable continuously and merged with Ubuntu-specific modifications. A month before release, imports are frozen, and packagers then work to ensure that the frozen features interoperate well together.
+
+Ubuntu is currently funded by Canonical Ltd. On 8 July 2005, Mark Shuttleworth and Canonical Ltd. announced the creation of the Ubuntu Foundation and provided an initial funding of US$10 million. The purpose of the foundation is to ensure the support and development for all future versions of Ubuntu. Mark Shuttleworth describes the foundation as an "emergency fund" (in case Canonical's involvement ends).[33]
+
+On 12 March 2009, Ubuntu announced developer support for 3rd party cloud management platforms, such as for those used at Amazon EC2.[34]
+
+Beginning with version 10.10, Ubuntu Netbook Edition used the Unity desktop as its desktop interface.[35] Starting with Ubuntu 11.04, the netbook edition has been merged into the desktop edition[36] and Unity became the default GUI for Ubuntu Desktop.[37][38]
+
+Mark Shuttleworth announced on 31 October 2011 that Ubuntu's support for smartphones, tablets, TVs and smart screens is scheduled to be added by Ubuntu 14.04.[39] On 9 January 2012, Canonical announced Ubuntu TV at the Consumer Electronics Show.[40][41][42][43][44]
+System requirements
+
+The system requirements vary among Ubuntu products. For the Ubuntu desktop release, a PC with at least 768 MB of RAM and 5 GB of disk space is recommended.[45] For less powerful computers, there are other Ubuntu distributions such as Lubuntu and Xubuntu.
+
+As of version 12.04, Ubuntu supports the ARM[2][3][4][5] and x86 (32 bit and 64 bit) architectures. There is unofficial support for PowerPC
+
+

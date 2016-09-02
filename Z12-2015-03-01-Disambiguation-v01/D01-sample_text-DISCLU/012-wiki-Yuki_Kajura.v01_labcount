@@ -1,0 +1,42 @@
+Topic: 1| cluster_index: 13| cluster_weight: 44.0| weighted label: Anime
+    Anime: 4.5
+    Soundtrack: 4.0
+    Theme_music: 3.3
+    Anime_Expo: 2.5
+    Video_game_music: 2.4
+    List_of_Madlax_characters: 2.0
+    Aquarian_Age: 1.5
+    Xenosaga: 1.5
+    List_of_Tsubasa:_Reservoir_Chronicle_episodes: 1.0
+Topic: 2| cluster_index: 15| cluster_weight: 28.0| weighted label: Record_producer
+    Record_producer: 5.0
+    Solo_album: 4.0
+    Compilation_album: 3.0
+    Musical_ensemble: 2.0
+    Backing_vocalist: 1.7
+    Discography: 1.0
+Topic: 3| cluster_index: 16| cluster_weight: 17.0| weighted label: Musical_composition
+    Musical_composition: 5.0
+    Classical_music: 3.7
+    BBC_Concert_Orchestra: 1.3
+    Musical_theatre: 1.0
+Topic: 4| cluster_index: 11| cluster_weight: 9.0| weighted label: List_of_Mobile_Suit_Gundam_SEED_Destiny_episodes
+    List_of_Mobile_Suit_Gundam_SEED_Destiny_episodes: 1.8
+Topic: 5| cluster_index: 12| cluster_weight: 8.0| weighted label: List_of_Mobile_Suit_Gundam_SEED_episodes
+    List_of_Mobile_Suit_Gundam_SEED_episodes: 2.0
+Topic: 6| cluster_index: 9| cluster_weight: 8.0| weighted label: List_of_Kimagure_Orange_Road_episodes
+    List_of_Kimagure_Orange_Road_episodes: 1.6
+Topic: 7| cluster_index: 6| cluster_weight: 6.0| weighted label: Seesaw
+    Seesaw: 3.0
+Topic: 8| cluster_index: 14| cluster_weight: 5.0| weighted label: West_Germany
+    West_Germany: 1.0
+    Artistic_freedom: 1.0
+Topic: 9| cluster_index: 10| cluster_weight: 5.0| weighted label: Tokyo_International_Forum
+    Tokyo_International_Forum: 1.7
+Topic: 10| cluster_index: 8| cluster_weight: 3.0| weighted label: List_of_Fate/Zero_episodes
+    List_of_Fate/Zero_episodes: 1.5
+Topic: 11| cluster_index: 17| cluster_weight: 3.0| weighted label: Citation
+    Citation: 1.0
+    English_as_a_second_or_foreign_language: 1.0
+Topic: 12| cluster_index: 7| cluster_weight: 3.0| weighted label: List_of_Sword_Art_Online_episodes
+    List_of_Sword_Art_Online_episodes: 1.0

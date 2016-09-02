@@ -1,0 +1,289 @@
+Topic: 1| cluster_index: 163| word_count: 177.0| weighted_label: Grammy_Award_for_Producer_of_the_Year,_Non-Classical
+    Grammy_Award_for_Producer_of_the_Year,_Non-Classical: -1.66993185021
+    Grammy_Award_for_Best_Engineered_Album,_Non-Classical: -1.68544710145
+    Grammy_Award_for_Record_of_the_Year: -2.01324299093
+    Grammy_Award_for_Best_Music_Video: -2.02039907503
+    Grammy_Award_for_Album_of_the_Year: -2.04078653737
+    Grammy_Award_for_Best_Female_R&B_Vocal_Performance: -2.04946468376
+    Grammy_Award_for_Best_Female_Rock_Vocal_Performance: -2.07156493895
+    Grammy_Award_for_Best_Traditional_Pop_Vocal_Album: -2.11746958755
+    Grammy_Award_for_Best_Album_for_Children: -2.39172343543
+    Grammy_Award_for_Best_Dance_Recording: -2.46453218351
+Topic: 2| cluster_index: 161| word_count: 166.0| weighted_label: Grammy_Award_for_Best_Solo_Rock_Vocal_Performance
+    Grammy_Award_for_Best_Solo_Rock_Vocal_Performance: -0.440060701261
+    Grammy_Award_for_Best_Contemporary_R&B_Album: -0.510099226929
+    Grammy_Legend_Award: -0.513961973448
+Topic: 3| cluster_index: 160| word_count: 157.0| weighted_label: American_Music_Award_for_Favorite_Pop/Rock_Male_Artist
+    American_Music_Award_for_Favorite_Pop/Rock_Male_Artist: -0.440554746708
+    American_Music_Award_for_Favorite_Soul/R&B_Male_Artist: -0.470285106126
+    American_Music_Award_for_Favorite_Pop/Rock_Album: -0.516035287966
+    American_Music_Award_for_Favorite_Soul/R&B_Album: -0.68635248935
+    MTV_Video_Music_Award_for_Best_Male_Video: -1.04307647925
+Topic: 4| cluster_index: 162| word_count: 126.0| weighted_label: Heal_the_World_Foundation
+    Heal_the_World_Foundation: -0.45863997969
+    List_of_awards_and_nominations_received_by_Michael_Jackson: -0.477696036223
+    Thriller_(viral_video): -0.510363645756
+Topic: 5| cluster_index: 154| word_count: 112.0| weighted_label: Bad_(tour)
+    Bad_(tour): -0.0
+Topic: 6| cluster_index: 168| word_count: 103.0| weighted_label: Jackson_family
+    Jackson_family: -0.170306602721
+    Steeltown_Records: -0.170306602721
+Topic: 7| cluster_index: 166| word_count: 92.0| weighted_label: Trial_of_Conrad_Murray
+    Trial_of_Conrad_Murray: -0.249204273661
+    Death_of_Michael_Jackson: -0.249204273661
+Topic: 8| cluster_index: 122| word_count: 88.0| weighted_label: 1980s
+    1980s: -0.0
+Topic: 9| cluster_index: 157| word_count: 70.0| weighted_label: Honorific_nicknames_in_popular_music
+    Honorific_nicknames_in_popular_music: -0.50766574189
+    Grammy_Lifetime_Achievement_Award: -0.533784009143
+    List_of_best-selling_music_artists: -0.559381785708
+Topic: 10| cluster_index: 164| word_count: 62.0| weighted_label: American_Music_Award
+    American_Music_Award: -0.253333429297
+    Soul_Train_Music_Awards: -0.253333429297
+Topic: 11| cluster_index: 127| word_count: 58.0| weighted_label: Billboard_Top_Latin_Songs_Year-End_Chart
+    Billboard_Top_Latin_Songs_Year-End_Chart: -0.0
+Topic: 12| cluster_index: 167| word_count: 48.0| weighted_label: Billboard_200
+    Billboard_200: -0.238484998076
+    Top_R&B/Hip-Hop_Albums: -0.238484998076
+Topic: 13| cluster_index: 69| word_count: 41.0| weighted_label: Solo_album
+    Solo_album: -0.0
+Topic: 14| cluster_index: 103| word_count: 39.0| weighted_label: Music_video
+    Music_video: -0.0
+Topic: 15| cluster_index: 112| word_count: 36.0| weighted_label: Music_artist_(occupation)
+    Music_artist_(occupation): -0.0
+Topic: 16| cluster_index: 125| word_count: 35.0| weighted_label: Music_television
+    Music_television: -0.0
+Topic: 17| cluster_index: 115| word_count: 35.0| weighted_label: Pakistani_pop_music
+    Pakistani_pop_music: -0.0
+Topic: 18| cluster_index: 140| word_count: 34.0| weighted_label: Musical_ensemble
+    Musical_ensemble: -0.0
+Topic: 19| cluster_index: 146| word_count: 32.0| weighted_label: Songwriters_Hall_of_Fame
+    Songwriters_Hall_of_Fame: -0.0
+Topic: 20| cluster_index: 43| word_count: 31.0| weighted_label: List_of_Christian_metal_bands
+    List_of_Christian_metal_bands: -0.0
+Topic: 21| cluster_index: 131| word_count: 30.0| weighted_label: Record_shop
+    Record_shop: -0.0
+Topic: 22| cluster_index: 106| word_count: 30.0| weighted_label: Star_Records
+    Star_Records: -0.0
+Topic: 23| cluster_index: 149| word_count: 30.0| weighted_label: 2000s_in_the_music_industry
+    2000s_in_the_music_industry: -0.0
+Topic: 24| cluster_index: 101| word_count: 30.0| weighted_label: American_popular_music
+    American_popular_music: -0.0
+Topic: 25| cluster_index: 150| word_count: 30.0| weighted_label: Music_industry
+    Music_industry: -0.0
+Topic: 26| cluster_index: 48| word_count: 29.0| weighted_label: Music_of_Philadelphia
+    Music_of_Philadelphia: -0.0
+Topic: 27| cluster_index: 136| word_count: 27.0| weighted_label: Grammy_Award
+    Grammy_Award: -0.0
+Topic: 28| cluster_index: 105| word_count: 27.0| weighted_label: Record_World
+    Record_World: -0.0
+Topic: 29| cluster_index: 128| word_count: 27.0| weighted_label: Crossover_(music)
+    Crossover_(music): -0.0
+Topic: 30| cluster_index: 129| word_count: 27.0| weighted_label: Billboard_Music_Award_for_Spotlight
+    Billboard_Music_Award_for_Spotlight: -0.0
+Topic: 31| cluster_index: 94| word_count: 25.0| weighted_label: 1980s_in_music
+    1980s_in_music: -0.0
+Topic: 32| cluster_index: 51| word_count: 25.0| weighted_label: Solo_(group)
+    Solo_(group): -0.0
+Topic: 33| cluster_index: 98| word_count: 22.0| weighted_label: VJing
+    VJing: -0.0
+Topic: 34| cluster_index: 107| word_count: 21.0| weighted_label: 679_Artists
+    679_Artists: -0.0
+Topic: 35| cluster_index: 159| word_count: 21.0| weighted_label: Chart_Records
+    Chart_Records: -0.502070235927
+    Four_Star_Records: -0.52261801445
+    CBS_Records_(2006): -0.549540318047
+Topic: 36| cluster_index: 148| word_count: 20.0| weighted_label: Contemporary_R&B
+    Contemporary_R&B: -0.0
+Topic: 37| cluster_index: 84| word_count: 20.0| weighted_label: Academy_Awards
+    Academy_Awards: -0.0
+Topic: 38| cluster_index: 65| word_count: 19.0| weighted_label: Best_of_Both_Worlds_Tour
+    Best_of_Both_Worlds_Tour: -0.0
+Topic: 39| cluster_index: 81| word_count: 19.0| weighted_label: Hundred_Flowers_Awards
+    Hundred_Flowers_Awards: -0.0
+Topic: 40| cluster_index: 114| word_count: 18.0| weighted_label: Bubblegum_pop
+    Bubblegum_pop: -0.0
+Topic: 41| cluster_index: 120| word_count: 18.0| weighted_label: Epic_Records
+    Epic_Records: -0.0
+Topic: 42| cluster_index: 75| word_count: 18.0| weighted_label: Book-and-record_set
+    Book-and-record_set: -0.0
+Topic: 43| cluster_index: 138| word_count: 17.0| weighted_label: Record_label
+    Record_label: -0.0
+Topic: 44| cluster_index: 68| word_count: 15.0| weighted_label: Business
+    Business: -0.0
+Topic: 45| cluster_index: 165| word_count: 15.0| weighted_label: Madonna_filmography
+    Madonna_filmography: -0.250768644967
+    Drowned_World_Tour: -0.250768644967
+Topic: 46| cluster_index: 79| word_count: 15.0| weighted_label: Musical_theatre
+    Musical_theatre: -0.0
+Topic: 47| cluster_index: 108| word_count: 14.0| weighted_label: Creative_director
+    Creative_director: -0.0
+Topic: 48| cluster_index: 86| word_count: 14.0| weighted_label: Dance_Music_Hall_of_Fame
+    Dance_Music_Hall_of_Fame: -0.0
+Topic: 49| cluster_index: 80| word_count: 13.0| weighted_label: Stunt_performer
+    Stunt_performer: -0.0
+Topic: 50| cluster_index: 59| word_count: 13.0| weighted_label: List_of_UK_Singles_Chart_number_ones
+    List_of_UK_Singles_Chart_number_ones: -0.0
+Topic: 51| cluster_index: 137| word_count: 12.0| weighted_label: Songwriter
+    Songwriter: -0.0
+Topic: 52| cluster_index: 83| word_count: 12.0| weighted_label: Film_score
+    Film_score: -0.0
+Topic: 53| cluster_index: 61| word_count: 12.0| weighted_label: Careers_(board_game)
+    Careers_(board_game): -0.0
+Topic: 54| cluster_index: 70| word_count: 12.0| weighted_label: Streaming_media
+    Streaming_media: -0.0
+Topic: 55| cluster_index: 76| word_count: 12.0| weighted_label: Times_Square
+    Times_Square: -0.0
+Topic: 56| cluster_index: 64| word_count: 11.0| weighted_label: The_Brothers_(band)
+    The_Brothers_(band): -0.0
+Topic: 57| cluster_index: 95| word_count: 11.0| weighted_label: English_as_a_second_or_foreign_language
+    English_as_a_second_or_foreign_language: -0.0
+Topic: 58| cluster_index: 102| word_count: 11.0| weighted_label: Television_advertisement
+    Television_advertisement: -0.0
+Topic: 59| cluster_index: 113| word_count: 11.0| weighted_label: Motown
+    Motown: -0.0
+Topic: 60| cluster_index: 141| word_count: 11.0| weighted_label: National_Film_Registry
+    National_Film_Registry: -0.0
+Topic: 61| cluster_index: 44| word_count: 11.0| weighted_label: ATP_World_Tour_Finals
+    ATP_World_Tour_Finals: -0.0
+Topic: 62| cluster_index: 139| word_count: 10.0| weighted_label: Rock_music
+    Rock_music: -0.0
+Topic: 63| cluster_index: 41| word_count: 10.0| weighted_label: Tarantula_hawk
+    Tarantula_hawk: -0.0
+Topic: 64| cluster_index: 135| word_count: 10.0| weighted_label: E!
+    E!: -0.0
+Topic: 65| cluster_index: 85| word_count: 10.0| weighted_label: United_States
+    United_States: -0.0
+Topic: 66| cluster_index: 66| word_count: 10.0| weighted_label: Dance_hall
+    Dance_hall: -0.0
+Topic: 67| cluster_index: 126| word_count: 10.0| weighted_label: Television_channel
+    Television_channel: -0.0
+Topic: 68| cluster_index: 62| word_count: 10.0| weighted_label: Child_singer
+    Child_singer: -0.0
+Topic: 69| cluster_index: 87| word_count: 10.0| weighted_label: Twenty-five-thousander
+    Twenty-five-thousander: -0.0
+Topic: 70| cluster_index: 119| word_count: 10.0| weighted_label: Performance
+    Performance: -0.0
+Topic: 71| cluster_index: 158| word_count: 10.0| weighted_label: 28th_Annual_Grammy_Awards
+    28th_Annual_Grammy_Awards: -0.275447680403
+    55th_Annual_Grammy_Awards: -0.275447680403
+Topic: 72| cluster_index: 99| word_count: 9.0| weighted_label: Culture_of_the_United_States
+    Culture_of_the_United_States: -0.0
+Topic: 73| cluster_index: 47| word_count: 9.0| weighted_label: The_Millennium_Dance_Complex
+    The_Millennium_Dance_Complex: -0.0
+Topic: 74| cluster_index: 50| word_count: 9.0| weighted_label: Old_school_jazz_dance
+    Old_school_jazz_dance: -0.0
+Topic: 75| cluster_index: 130| word_count: 9.0| weighted_label: NPD_Group
+    NPD_Group: -0.0
+Topic: 76| cluster_index: 144| word_count: 8.0| weighted_label: Greater_Los_Angeles_Area
+    Greater_Los_Angeles_Area: -0.0
+Topic: 77| cluster_index: 143| word_count: 8.0| weighted_label: Los_Angeles_County_Department_of_Medical_Examiner-Coroner
+    Los_Angeles_County_Department_of_Medical_Examiner-Coroner: -0.0
+Topic: 78| cluster_index: 60| word_count: 8.0| weighted_label: Playing_card
+    Playing_card: -0.0
+Topic: 79| cluster_index: 67| word_count: 8.0| weighted_label: Household_income
+    Household_income: -0.0
+Topic: 80| cluster_index: 110| word_count: 7.0| weighted_label: Talent_show
+    Talent_show: -0.0
+Topic: 81| cluster_index: 40| word_count: 6.0| weighted_label: NBC_Opera_Theatre
+    NBC_Opera_Theatre: -0.0
+Topic: 82| cluster_index: 151| word_count: 6.0| weighted_label: List_of_Rock_and_Roll_Hall_of_Fame_inductees
+    List_of_Rock_and_Roll_Hall_of_Fame_inductees: -0.0
+Topic: 83| cluster_index: 155| word_count: 6.0| weighted_label: Los_Angeles
+    Los_Angeles: -0.0
+Topic: 84| cluster_index: 77| word_count: 6.0| weighted_label: Jazz_royalty
+    Jazz_royalty: -0.0
+Topic: 85| cluster_index: 82| word_count: 5.0| weighted_label: Estate_tax_in_the_United_States
+    Estate_tax_in_the_United_States: -0.0
+Topic: 86| cluster_index: 153| word_count: 5.0| weighted_label: Pasadena_Conference_Center
+    Pasadena_Conference_Center: -0.0
+Topic: 87| cluster_index: 147| word_count: 5.0| weighted_label: Apollo_Theater
+    Apollo_Theater: -0.0
+Topic: 88| cluster_index: 117| word_count: 4.0| weighted_label: History
+    History: -0.0
+Topic: 89| cluster_index: 152| word_count: 4.0| weighted_label: Shrine_Auditorium
+    Shrine_Auditorium: -0.0
+Topic: 90| cluster_index: 111| word_count: 4.0| weighted_label: Hip-hop_dance
+    Hip-hop_dance: -0.0
+Topic: 91| cluster_index: 55| word_count: 4.0| weighted_label: Forever_(Vertical_Horizon_song)
+    Forever_(Vertical_Horizon_song): -0.0
+Topic: 92| cluster_index: 91| word_count: 4.0| weighted_label: Brotman_Medical_Center
+    Brotman_Medical_Center: -0.0
+Topic: 93| cluster_index: 145| word_count: 4.0| weighted_label: Chicago_metropolitan_area
+    Chicago_metropolitan_area: -0.0
+Topic: 94| cluster_index: 73| word_count: 3.0| weighted_label: Diana_Ross_Playground
+    Diana_Ross_Playground: -0.0
+Topic: 95| cluster_index: 49| word_count: 3.0| weighted_label: Labelling
+    Labelling: -0.0
+Topic: 96| cluster_index: 104| word_count: 3.0| weighted_label: Super_Bowl_XXVII
+    Super_Bowl_XXVII: -0.0
+Topic: 97| cluster_index: 45| word_count: 3.0| weighted_label: Under_the_Influence_(compilation_album)
+    Under_the_Influence_(compilation_album): -0.0
+Topic: 98| cluster_index: 90| word_count: 3.0| weighted_label: Culver_City,_California
+    Culver_City,_California: -0.0
+Topic: 99| cluster_index: 58| word_count: 3.0| weighted_label: Big_Boy_Restaurants
+    Big_Boy_Restaurants: -0.0
+Topic: 100| cluster_index: 38| word_count: 3.0| weighted_label: Box_Office_Prophets
+    Box_Office_Prophets: -0.0
+Topic: 101| cluster_index: 39| word_count: 3.0| weighted_label: The_World_of_Yesterday
+    The_World_of_Yesterday: -0.0
+Topic: 102| cluster_index: 88| word_count: 3.0| weighted_label: Jehovah's_Witnesses
+    Jehovah's_Witnesses: -0.0
+Topic: 103| cluster_index: 134| word_count: 2.0| weighted_label: Oprah_Winfrey_Network_(U.S._TV_channel)
+    Oprah_Winfrey_Network_(U.S._TV_channel): -0.0
+Topic: 104| cluster_index: 53| word_count: 2.0| weighted_label: List_of_Playboy_videos
+    List_of_Playboy_videos: -0.0
+Topic: 105| cluster_index: 46| word_count: 2.0| weighted_label: Neverland_Studios
+    Neverland_Studios: -0.0
+Topic: 106| cluster_index: 42| word_count: 2.0| weighted_label: Dangerous!
+    Dangerous!: -0.0
+Topic: 107| cluster_index: 78| word_count: 2.0| weighted_label: Cultural_impact_of_Elvis_Presley
+    Cultural_impact_of_Elvis_Presley: -0.0
+Topic: 108| cluster_index: 156| word_count: 2.0| weighted_label: California
+    California: -0.0
+Topic: 109| cluster_index: 92| word_count: 2.0| weighted_label: Internal_link
+    Internal_link: -0.0
+Topic: 110| cluster_index: 97| word_count: 2.0| weighted_label: MTV_(Latin_America)
+    MTV_(Latin_America): -0.0
+Topic: 111| cluster_index: 142| word_count: 2.0| weighted_label: Library_of_Congress
+    Library_of_Congress: -0.0
+Topic: 112| cluster_index: 121| word_count: 2.0| weighted_label: E.T._the_Extra-Terrestrial_(video_game)
+    E.T._the_Extra-Terrestrial_(video_game): -0.0
+Topic: 113| cluster_index: 71| word_count: 2.0| weighted_label: Florida_East_Coast_Railway
+    Florida_East_Coast_Railway: -0.0
+Topic: 114| cluster_index: 124| word_count: 1.0| weighted_label: Aftermath_Entertainment
+    Aftermath_Entertainment: -0.0
+Topic: 115| cluster_index: 132| word_count: 1.0| weighted_label: Note_(typography)
+    Note_(typography): -0.0
+Topic: 116| cluster_index: 52| word_count: 1.0| weighted_label: Artistry
+    Artistry: -0.0
+Topic: 117| cluster_index: 123| word_count: 1.0| weighted_label: Recording_Industry_Association_of_America
+    Recording_Industry_Association_of_America: -0.0
+Topic: 118| cluster_index: 133| word_count: 1.0| weighted_label: Reference.com
+    Reference.com: -0.0
+Topic: 119| cluster_index: 54| word_count: 1.0| weighted_label: Chemical_accident
+    Chemical_accident: -0.0
+Topic: 120| cluster_index: 116| word_count: 1.0| weighted_label: Library
+    Library: -0.0
+Topic: 121| cluster_index: 63| word_count: 1.0| weighted_label: Century_(band)
+    Century_(band): -0.0
+Topic: 122| cluster_index: 89| word_count: 1.0| weighted_label: American_Broadcasting_Company
+    American_Broadcasting_Company: -0.0
+Topic: 123| cluster_index: 74| word_count: 1.0| weighted_label: Discography
+    Discography: -0.0
+Topic: 124| cluster_index: 109| word_count: 1.0| weighted_label: BBDO
+    BBDO: -0.0
+Topic: 125| cluster_index: 93| word_count: 1.0| weighted_label: Source_(journalism)
+    Source_(journalism): -0.0
+Topic: 126| cluster_index: 72| word_count: 1.0| weighted_label: PepsiCo
+    PepsiCo: -0.0
+Topic: 127| cluster_index: 96| word_count: 1.0| weighted_label: Grammatical_aspect
+    Grammatical_aspect: -0.0
+Topic: 128| cluster_index: 56| word_count: 1.0| weighted_label: List_of_songs_recorded_by_Beyonc%C3%A9
+    List_of_songs_recorded_by_Beyonc%C3%A9: -0.0
+Topic: 129| cluster_index: 118| word_count: 1.0| weighted_label: Improvisational_theatre
+    Improvisational_theatre: -0.0
+Topic: 130| cluster_index: 57| word_count: 1.0| weighted_label: Harlem_(Ellington)
+    Harlem_(Ellington): -0.0
+Topic: 131| cluster_index: 100| word_count: 1.0| weighted_label: Midwestern_United_States
+    Midwestern_United_States: -0.0

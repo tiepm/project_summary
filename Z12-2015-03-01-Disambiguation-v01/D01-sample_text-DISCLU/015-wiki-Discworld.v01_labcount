@@ -1,0 +1,94 @@
+Topic: 1| cluster_index: 21| cluster_weight: 253.0| weighted label: Discworld
+    Discworld: 27.0
+    Amazing_Stories: 19.0
+    Romance_novel: 17.0
+    Witches_(Discworld): 14.0
+    Ankh-Morpork_City_Watch: 12.0
+    Short_story: 11.0
+    Audiobook: 9.0
+    Quiz: 9.0
+    Children's_literature: 9.0
+    Death_(Discworld): 8.5
+    Story_arc: 7.3
+    Fantasy: 6.0
+    Ankh-Morpork: 6.0
+    Fantasy_world: 5.0
+    Protagonist: 5.0
+    Nanny_Ogg: 4.0
+    Tiffany_Aching: 3.0
+    Sam_Vimes: 3.0
+    Susan_Sto_Helit: 2.3
+    Turntables_of_the_Night: 2.0
+    Discworld_gods: 2.0
+    Rincewind: 2.0
+    Harry_Potter: 1.7
+    Prometheus_Award: 1.5
+    Golems_(Discworld): 1.3
+    The_Big_Read: 1.3
+    Virtual_reality: 1.0
+    Carnegie_Medal_(literary_award): 1.0
+    Havelock_Vetinari: 1.0
+    Granny_Weatherwax: 1.0
+    Going_postal: 1.0
+    Discworld_(world): 1.0
+    Literary_adaptation: 1.0
+    HarperCollins: 1.0
+    Troll_(Discworld): 1.0
+    Moist_von_Lipwig: 1.0
+    Dwarfs_(Discworld): 1.0
+    Discworld_geography: 1.0
+    Other_dimensions_of_the_Discworld: 1.0
+Topic: 2| cluster_index: 23| cluster_weight: 45.0| weighted label: Warhammer_40,000_comics
+    Warhammer_40,000_comics: 9.0
+    Wing_Commander_(franchise): 6.0
+    Final_Fantasy: 3.3
+    StarCraft: 3.0
+    Sly_Cooper:_Thieves_in_Time: 2.0
+    Barbarian:_The_Ultimate_Warrior: 1.0
+    Dead_to_Rights_(series): 1.0
+Topic: 3| cluster_index: 29| cluster_weight: 37.0| weighted label: Comic_book
+    Comic_book: 8.8
+    Wizard_(Archie_Comics): 2.0
+Topic: 4| cluster_index: 25| cluster_weight: 35.0| weighted label: Marriage
+    Marriage: 8.5
+    Minneapolis%E2%80%93Saint_Paul: 5.5
+    Police: 2.3
+Topic: 5| cluster_index: 32| cluster_weight: 26.0| weighted label: Book_of_Numbers
+    Book_of_Numbers: 7.7
+    Book_of_Joshua: 1.5
+Topic: 6| cluster_index: 24| cluster_weight: 26.0| weighted label: Part_(music)
+    Part_(music): 8.0
+    Soul_music: 3.5
+    Cover_art: 1.0
+Topic: 7| cluster_index: 26| cluster_weight: 25.0| weighted label: Popular_Science_(film)
+    Popular_Science_(film): 7.7
+    Film: 1.0
+Topic: 8| cluster_index: 22| cluster_weight: 23.0| weighted label: Mortality_rate
+    Mortality_rate: 8.0
+    Encyclop%C3%A6dia_Britannica_First_Edition: 1.7
+    Alzheimer's_disease: 1.0
+Topic: 9| cluster_index: 30| cluster_weight: 14.0| weighted label: Phantasy_Star_Universe
+    Phantasy_Star_Universe: 4.0
+    Beatmania_IIDX_14:_Gold: 2.5
+    Thomas_&_Friends_merchandise: 1.0
+Topic: 10| cluster_index: 18| cluster_weight: 14.0| weighted label: Dykes_to_Watch_Out_For
+    Dykes_to_Watch_Out_For: 14.0
+Topic: 11| cluster_index: 17| cluster_weight: 11.0| weighted label: Fantasy_Hero
+    Fantasy_Hero: 2.8
+Topic: 12| cluster_index: 15| cluster_weight: 10.0| weighted label: List_of_Numbers_characters
+    List_of_Numbers_characters: 5.0
+Topic: 13| cluster_index: 27| cluster_weight: 5.0| weighted label: European_folklore
+    European_folklore: 1.5
+    Far_East: 1.0
+Topic: 14| cluster_index: 20| cluster_weight: 5.0| weighted label: Theatre_of_Cruelty
+    Theatre_of_Cruelty: 2.5
+Topic: 15| cluster_index: 16| cluster_weight: 4.0| weighted label: Critical_thinking
+    Critical_thinking: 1.3
+Topic: 16| cluster_index: 31| cluster_weight: 3.0| weighted label: Table_of_contents
+    Table_of_contents: 1.0
+    Internal_link: 1.0
+Topic: 17| cluster_index: 28| cluster_weight: 3.0| weighted label: Child_abuse
+    Child_abuse: 2.0
+    Car_turntable: 1.0
+Topic: 18| cluster_index: 19| cluster_weight: 2.0| weighted label: Eiffel_Tower
+    Eiffel_Tower: 1.0

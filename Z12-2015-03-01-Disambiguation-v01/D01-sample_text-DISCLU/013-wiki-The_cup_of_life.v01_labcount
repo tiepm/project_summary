@@ -1,0 +1,23 @@
+Topic: 1| cluster_index: 7| cluster_weight: 19.0| weighted label: FIFA_World_Cup_official_songs
+    FIFA_World_Cup_official_songs: 2.7
+    41st_Annual_Grammy_Awards: 1.0
+Topic: 2| cluster_index: 6| cluster_weight: 12.0| weighted label: France
+    France: 3.0
+    United_Kingdom: 1.5
+    Sweden: 1.0
+    West_Germany: 1.0
+    Switzerland: 1.0
+    Norway: 1.0
+    Austria: 1.0
+    Netherlands: 1.0
+Topic: 3| cluster_index: 8| cluster_weight: 10.0| weighted label: Music_video
+    Music_video: 3.0
+    Billboard_Hot_100: 2.0
+Topic: 4| cluster_index: 3| cluster_weight: 6.0| weighted label: Alma_mater
+    Alma_mater: 3.0
+Topic: 5| cluster_index: 5| cluster_weight: 6.0| weighted label: United_States
+    United_States: 1.5
+    Hispanic: 1.0
+    Puerto_Rico: 1.0
+Topic: 6| cluster_index: 4| cluster_weight: 1.0| weighted label: Cusco_(band)
+    Cusco_(band): 1.0

@@ -1,0 +1,82 @@
+Topic: 1| cluster_index: 23| cluster_weight: 110.0| weighted label: Subroutine
+    Subroutine: 10.0
+    Imperative_programming: 9.5
+    Type_system: 7.3
+    Enumerated_type: 6.5
+    Pointer_(computer_programming): 6.0
+    Return_statement: 5.7
+    Parameter_(computer_programming): 5.5
+    Object_(computer_science): 5.5
+    Void_type: 5.3
+    Objective-C: 3.0
+    Syntax_(programming_languages): 3.0
+    Scope_(computer_science): 2.7
+    ALGOL: 2.0
+    Reference_(computer_science): 2.0
+    Control_flow: 1.5
+    Conditional_(computer_programming): 1.0
+Topic: 2| cluster_index: 20| cluster_weight: 43.0| weighted label: Assembly_language
+    Assembly_language: 9.5
+    Operating_system: 5.0
+    Unix: 3.0
+    Source_code: 2.7
+Topic: 3| cluster_index: 27| cluster_weight: 29.0| weighted label: High-level_assembler
+    High-level_assembler: 5.8
+    Low-level_programming_language: 3.0
+    Pike_(programming_language): 1.0
+Topic: 4| cluster_index: 24| cluster_weight: 25.0| weighted label: Null_Object_pattern
+    Null_Object_pattern: 4.0
+    Monad_(functional_programming): 2.0
+    First-class_citizen: 1.7
+Topic: 5| cluster_index: 22| cluster_weight: 21.0| weighted label: Programming_tool
+    Programming_tool: 9.0
+    Unix_shell: 1.5
+Topic: 6| cluster_index: 11| cluster_weight: 20.0| weighted label: Opaque_data_type
+    Opaque_data_type: 10.0
+Topic: 7| cluster_index: 32| cluster_weight: 20.0| weighted label: Hardware_description_language
+    Hardware_description_language: 6.3
+    Verilog: 1.0
+Topic: 8| cluster_index: 13| cluster_weight: 19.0| weighted label: Language_construct
+    Language_construct: 9.5
+Topic: 9| cluster_index: 15| cluster_weight: 17.0| weighted label: Language
+    Language: 17.0
+Topic: 10| cluster_index: 21| cluster_weight: 15.0| weighted label: SQL
+    SQL: 3.0
+    Cross-platform: 2.7
+    Python_(programming_language): 2.0
+    JavaScript: 1.0
+    PHP: 1.0
+Topic: 11| cluster_index: 19| cluster_weight: 14.0| weighted label: Java_syntax
+    Java_syntax: 7.0
+Topic: 12| cluster_index: 29| cluster_weight: 12.0| weighted label: System_software
+    System_software: 4.5
+    Multi-user: 1.5
+Topic: 13| cluster_index: 18| cluster_weight: 11.0| weighted label: Function_(mathematics)
+    Function_(mathematics): 5.5
+Topic: 14| cluster_index: 28| cluster_weight: 10.0| weighted label: Data_model
+    Data_model: 4.5
+    Data_element: 4.5
+Topic: 15| cluster_index: 30| cluster_weight: 10.0| weighted label: American_National_Standards_Institute
+    American_National_Standards_Institute: 1.5
+    International_Organization_for_Standardization: 1.3
+Topic: 16| cluster_index: 12| cluster_weight: 8.0| weighted label: MIMIC
+    MIMIC: 1.6
+Topic: 17| cluster_index: 26| cluster_weight: 7.0| weighted label: Character_encoding
+    Character_encoding: 2.5
+    String_(computer_science): 2.0
+Topic: 18| cluster_index: 31| cluster_weight: 7.0| weighted label: Runtime_library
+    Runtime_library: 2.0
+    Run_time_(program_lifecycle_phase): 1.7
+Topic: 19| cluster_index: 25| cluster_weight: 7.0| weighted label: Library_(computing)
+    Library_(computing): 2.0
+    Computing_platform: 1.7
+Topic: 20| cluster_index: 16| cluster_weight: 6.0| weighted label: Computer_architecture_simulator
+    Computer_architecture_simulator: 2.0
+Topic: 21| cluster_index: 9| cluster_weight: 3.0| weighted label: International_organization
+    International_organization: 1.5
+Topic: 22| cluster_index: 17| cluster_weight: 3.0| weighted label: Characteristic_(algebra)
+    Characteristic_(algebra): 3.0
+Topic: 23| cluster_index: 10| cluster_weight: 2.0| weighted label: ISO_image
+    ISO_image: 2.0
+Topic: 24| cluster_index: 14| cluster_weight: 1.0| weighted label: Standard_language
+    Standard_language: 1.0

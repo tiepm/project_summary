@@ -1,0 +1,53 @@
+Topic: 1| cluster_index: 16| word_count: 59.0| weighted_label: Unix
+    Unix: -2.50550406448
+    Operating_system: -2.61393723292
+    Berkeley_Software_Distribution: -2.73029194669
+    Programming_language: -2.73485245879
+    Linux: -2.79438538929
+    Digital_Research: -3.09328875861
+    Structured_programming: -3.1707394253
+    System_time: -3.36667026102
+    Reflection_(computer_programming): -3.47401814027
+Topic: 2| cluster_index: 21| word_count: 48.0| weighted_label: Software_development_methodology
+    Software_development_methodology: -0.317928044029
+    Stevens_Award: -0.317928044029
+Topic: 3| cluster_index: 20| word_count: 37.0| weighted_label: Institute_of_Electrical_and_Electronics_Engineers
+    Institute_of_Electrical_and_Electronics_Engineers: -1.01559276396
+    Electronic_engineering: -1.15816583544
+    Institution_of_Electrical_Engineers: -1.22426095303
+    Bell_Labs: -1.24213044615
+Topic: 4| cluster_index: 19| word_count: 31.0| weighted_label: Turing_Award
+    Turing_Award: -1.62483746637
+    National_Medal_of_Technology_and_Innovation: -1.66268356777
+    Japan_Prize: -1.73978706538
+    IEEE_Richard_W._Hamming_Medal: -1.78990163554
+    Computer_History_Museum: -2.08153392089
+    Summit_High_School_(New_Jersey): -2.10878494377
+Topic: 5| cluster_index: 15| word_count: 19.0| weighted_label: Systems_theory
+    Systems_theory: -0.446730214008
+    Communication: -0.446730214008
+Topic: 6| cluster_index: 7| word_count: 7.0| weighted_label: National_Medal_(Australia)
+    National_Medal_(Australia): -0.0
+Topic: 7| cluster_index: 13| word_count: 7.0| weighted_label: Industrial_Research_Institute
+    Industrial_Research_Institute: -0.0
+Topic: 8| cluster_index: 22| word_count: 5.0| weighted_label: Thesis
+    Thesis: -0.296733663726
+    Doctor_of_Philosophy: -0.296733663726
+Topic: 9| cluster_index: 17| word_count: 5.0| weighted_label: Technology
+    Technology: -0.426457944927
+    Electricity: -0.426457944927
+Topic: 10| cluster_index: 18| word_count: 4.0| weighted_label: Universal_design
+    Universal_design: -0.415652317915
+    Information_Age: -0.415652317915
+Topic: 11| cluster_index: 14| word_count: 3.0| weighted_label: Harvard_University
+    Harvard_University: -0.0
+Topic: 12| cluster_index: 12| word_count: 3.0| weighted_label: Switching_circuit_theory
+    Switching_circuit_theory: -0.0
+Topic: 13| cluster_index: 11| word_count: 2.0| weighted_label: Computational_complexity_theory
+    Computational_complexity_theory: -0.0
+Topic: 14| cluster_index: 10| word_count: 2.0| weighted_label: Citation
+    Citation: -0.0
+Topic: 15| cluster_index: 9| word_count: 1.0| weighted_label: Fellow_(computing)
+    Fellow_(computing): -0.0
+Topic: 16| cluster_index: 8| word_count: 1.0| weighted_label: Contentment
+    Contentment: -0.0

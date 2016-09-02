@@ -1,0 +1,44 @@
+####
+﻿Optical Communications
+Optical networking
+Optics
+Physics 
+@@@@
+Erbium-doped fiber amplifiers
+Erbium-doped fiber amplifiers: Device and System Developments
+10.2 Tbit/s (256x42. 7Gbit/s PDM/WDM) transmission over 100km TeraLight< sup> </sup> fiber with 1.28 bit/s/Hz spectral efficiency
+Transmission of 16.4-bit/s capacity over 2550 km using PDM QPSK modulation format and coherent receiver
+Transmission at 2x100Gb/s, over two modes of 40km-long prototype few-mode fiber, using LCOS based mode multiplexer and demultiplexer
+Linear fiber impairments mitigation of 40-Gbit/s polarization-multiplexed QPSK by digital processing in a coherent receiver
+All-optical fiber signal processing and regeneration for soliton communications
+WDM transmission at 6-Tbit/s capacity over transatlantic distance, using 42.7-Gb/s differential phase-shift keying without pulse carver
+Two mode transmission at 2x100Gb/s, over 40km-long prototype few-mode fiber, using LCOS-based programmable mode multiplexer and demultiplexer
+Experimental investigation of stimulated Raman scattering limitation on WDM transmission over various types of fiber infrastructures
+72x100Gb/s transmission over transoceanic distance, using large effective area fiber, hybrid Raman-Erbium amplification and coherent detection
+155x100Gbit/s coherent PDM-QPSK transmission over 7,200 km
+Nonlinear cumulated phase as a criterion to assess performance of terrestrial WDM systems
+Transmission of 256 wavelength-division and polarization-division-multiplexed channels at 42.7 Gb/s (10.2 Tb/s capacity) over 3x100km of TeraLight
+40km transmission of five mode division multiplexed data streams at 100Gb/s with low MIMO-DSP complexity
+Transmission of 40 Gb/s QPSK with coherent detection over ultra-long distance improved by nonlinearity mitigation
+5.12 Tbit/s (128× 40 Gbit/s WDM) transmission over 3× 100 km of TeraLight fiber
+All-optical RZ-to-NRZ format conversion at 10 Gbit/s with nonlinear optical loop mirror
+Degree of polarization degradation due to cross-phase modulation and its impact on polarization-mode dispersion compensators
+6.4 Tb/s (159× 42.7 Gb/s) capacity over 21× 100 km using bandwidth-limited phase-shaped binary transmission
+Multiterabit/s DWDM terrestrial transmission with bandwidth-limiting optical filtering
+Numerical optimization of residual dispersion in dispersion-managed systems at 40 Gbit/s
+Efficient mitigation of fiber impairments in an ultra-long haul transmission of 40Gbit/s polarization-multiplexed data, by digital processing in a coherent receiver
+Mode-division multiplexing of 2 100 Gb/s channels using an LCOS-based spatial modulator
+Investigation of cross-phase modulation limitation over various types of fiber infrastructures
+Cost-optimized 6.3 Tbit/s-capacity terrestrial link over 17 x 100 km using phase-shaped binary transmission in a conventional all-EDFA SMF-based system
+Dependence of self-phase modulation impairments on residual dispersion in 10-Gb/s-based terrestrial transmissions using standard fiber
+Cross-phase modulation suppressor for multispan dispersion-managed WDM transmissions
+151× 43 Gb/s transmission over 4080 km based on return-to-zero-differential quadrature phase-shift keying
+On nonlinear distortions of highly dispersive optical coherent systems
+Vestigial side band demultiplexing for ultra high capacity (0.64 bit/s/Hz) transmission of 128x40 Gb/s channels
+Transmission of 125 WDM channels at 42.7 Gbit/s (5 Tbit/s capacity) over 12× 100 km of TeraLight Ultra fibre
+Tolerance to dispersion compensation parameters of six modulation formats in systems operating at 43 Gbit/s
+Upgrading WDM submarine systems to 40-Gbit/s channel bitrate
+Enhanced analytical engineering rule for fast optimization of dispersion maps in 40 Gbit/s-based transmission systems
+20 GHz all-optical clock recovery based on fibre laser mode-locking with fibre nonlinear loop mirror as variable intensity/phase modulator
+Performance comparison of 40G and 100G coherent PDM-QPSK for upgrading dispersion managed legacy systems
+Experimental analysis of 100Gb/s coherent PDM-QPSK long-haul transmission under constraints of typical terrestrial networks

@@ -1,0 +1,115 @@
+Topic: 1| cluster_index: 42| cluster_weight: 255.0| weighted label: One_Ring
+    One_Ring: 24.0
+    Rings_of_Power: 23.0
+    Gandalf: 16.0
+    Saruman: 11.0
+    Gondor: 9.0
+    Aragorn: 6.5
+    Mordor: 6.0
+    Peregrin_Took: 5.7
+    Samwise_Gamgee: 5.3
+    Legolas: 5.0
+    Meriadoc_Brandybuck: 4.0
+    Wizard_(Middle-earth): 4.0
+    Boromir: 4.0
+    Treebeard: 3.0
+    Fangorn: 3.0
+    Isildur: 3.0
+    Anduin: 3.0
+    Balrog: 3.0
+    Battle_of_the_Pelennor_Fields: 3.0
+    Rivendell: 3.0
+    Galadriel: 3.0
+    Dwarf_(Middle-earth): 2.5
+    Helm's_Deep: 2.5
+    Rohan_(Middle-earth): 2.0
+    Isengard: 2.0
+    Denethor: 2.0
+    Misty_Mountains: 2.0
+    List_of_Middle-earth_wars_and_battles: 2.0
+    Rangers_of_the_North: 2.0
+    Minor_places_in_Middle-earth: 2.0
+    Lindon_(Middle-earth): 1.7
+    Faramir: 1.5
+    Minas_Tirith: 1.5
+    Aman: 1.5
+    Moria_(Middle-earth): 1.5
+    List_of_Middle-earth_rivers: 1.0
+    List_of_Middle-earth_weapons_and_armour: 1.0
+    Celeborn: 1.0
+    Nazg%C3%BBl: 1.0
+Topic: 2| cluster_index: 27| cluster_weight: 52.0| weighted label: War_of_the_Ring_(SPI_game)
+    War_of_the_Ring_(SPI_game): 17.3
+Topic: 3| cluster_index: 40| cluster_weight: 51.0| weighted label: The_Lord_of_the_Rings
+    The_Lord_of_the_Rings: 25.5
+Topic: 4| cluster_index: 19| cluster_weight: 46.0| weighted label: Lord_of_the_Rings:_Game_One
+    Lord_of_the_Rings:_Game_One: 23.0
+Topic: 5| cluster_index: 43| cluster_weight: 31.0| weighted label: Gollum
+    Gollum: 8.0
+    Hobbit: 6.0
+    Bilbo_Baggins: 5.0
+    Shire_(Middle-earth): 1.0
+Topic: 6| cluster_index: 46| cluster_weight: 27.0| weighted label: Mouth_of_Sauron
+    Mouth_of_Sauron: 9.5
+    Shelob: 1.7
+    Mount_Doom: 1.5
+Topic: 7| cluster_index: 30| cluster_weight: 26.0| weighted label: Frodo_Lives!
+    Frodo_Lives!: 13.0
+Topic: 8| cluster_index: 29| cluster_weight: 16.0| weighted label: Works_inspired_by_J._R._R._Tolkien
+    Works_inspired_by_J._R._R._Tolkien: 8.0
+Topic: 9| cluster_index: 45| cluster_weight: 15.0| weighted label: The_History_of_The_Lord_of_the_Rings
+    The_History_of_The_Lord_of_the_Rings: 3.7
+    Red_Book_of_Westmarch: 2.0
+Topic: 10| cluster_index: 24| cluster_weight: 12.0| weighted label: High_fantasy
+    High_fantasy: 3.0
+Topic: 11| cluster_index: 44| cluster_weight: 11.0| weighted label: Old_Forest
+    Old_Forest: 3.5
+    Tom_Bombadil: 1.0
+    Weathertop: 1.0
+Topic: 12| cluster_index: 37| cluster_weight: 10.0| weighted label: Tolkien_fandom
+    Tolkien_fandom: 5.0
+Topic: 13| cluster_index: 16| cluster_weight: 9.0| weighted label: India_in_World_War_II
+    India_in_World_War_II: 3.0
+Topic: 14| cluster_index: 22| cluster_weight: 9.0| weighted label: Hobbit_Day
+    Hobbit_Day: 9.0
+Topic: 15| cluster_index: 18| cluster_weight: 8.0| weighted label: Antagonist
+    Antagonist: 2.7
+Topic: 16| cluster_index: 28| cluster_weight: 8.0| weighted label: The_Lord_of_the_Rings:_The_Return_of_the_King_(video_game)
+    The_Lord_of_the_Rings:_The_Return_of_the_King_(video_game): 4.0
+Topic: 17| cluster_index: 34| cluster_weight: 7.0| weighted label: The_Lord_of_the_Rings_Strategy_Battle_Game
+    The_Lord_of_the_Rings_Strategy_Battle_Game: 3.5
+Topic: 18| cluster_index: 23| cluster_weight: 7.0| weighted label: Fan_edit
+    Fan_edit: 3.5
+Topic: 19| cluster_index: 47| cluster_weight: 6.0| weighted label: Paths_of_the_Dead
+    Paths_of_the_Dead: 1.5
+    Corsairs_of_Umbar: 1.5
+Topic: 20| cluster_index: 17| cluster_weight: 6.0| weighted label: Harry_Potter_and_the_Half-Blood_Prince
+    Harry_Potter_and_the_Half-Blood_Prince: 3.0
+Topic: 21| cluster_index: 15| cluster_weight: 5.0| weighted label: Oxford_University_Press
+    Oxford_University_Press: 1.7
+Topic: 22| cluster_index: 25| cluster_weight: 5.0| weighted label: Dwarf_Fortress
+    Dwarf_Fortress: 2.5
+Topic: 23| cluster_index: 41| cluster_weight: 4.0| weighted label: Caradhras
+    Caradhras: 1.0
+    Watcher_in_the_Water: 1.0
+    Minor_battles_in_The_Lord_of_the_Rings: 1.0
+Topic: 24| cluster_index: 39| cluster_weight: 4.0| weighted label: Middle-earth
+    Middle-earth: 2.0
+Topic: 25| cluster_index: 26| cluster_weight: 4.0| weighted label: FarmVille
+    FarmVille: 2.0
+Topic: 26| cluster_index: 36| cluster_weight: 3.0| weighted label: Sting_(Middle-earth)
+    Sting_(Middle-earth): 1.5
+Topic: 27| cluster_index: 38| cluster_weight: 2.0| weighted label: Languages_constructed_by_J._R._R._Tolkien
+    Languages_constructed_by_J._R._R._Tolkien: 1.0
+Topic: 28| cluster_index: 35| cluster_weight: 2.0| weighted label: Huorn
+    Huorn: 2.0
+Topic: 29| cluster_index: 31| cluster_weight: 2.0| weighted label: Ranger_(Middle-earth)
+    Ranger_(Middle-earth): 2.0
+Topic: 30| cluster_index: 33| cluster_weight: 2.0| weighted label: Races_of_StarCraft
+    Races_of_StarCraft: 2.0
+Topic: 31| cluster_index: 20| cluster_weight: 2.0| weighted label: Internal_link
+    Internal_link: 1.0
+Topic: 32| cluster_index: 21| cluster_weight: 2.0| weighted label: Citation
+    Citation: 2.0
+Topic: 33| cluster_index: 32| cluster_weight: 1.0| weighted label: Combine_(Half-Life)
+    Combine_(Half-Life): 1.0

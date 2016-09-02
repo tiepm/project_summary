@@ -1,0 +1,27 @@
+Topic: 1| cluster_index: 7| cluster_weight: 29.0| weighted label: Natural_History_Museum,_London
+    Natural_History_Museum,_London: 3.2
+    Cardiff_University: 2.0
+    Royal_Society: 2.0
+Topic: 2| cluster_index: 10| cluster_weight: 23.0| weighted label: Tiger
+    Tiger: 14.0
+    Project_Tiger: 9.0
+    Bengal_tiger: 8.5
+    Tiger_hunting: 8.0
+Topic: 3| cluster_index: 9| cluster_weight: 16.0| weighted label: Genetic_diversity
+    Genetic_diversity: 6.0
+    Biodiversity: 6.0
+    Genetic_structure: 4.0
+    Biology: 1.0
+Topic: 4| cluster_index: 8| cluster_weight: 14.0| weighted label: British_Raj
+    British_Raj: 2.5
+    Government_of_India: 2.0
+    Bangalore: 1.0
+    National_Centre_for_Biological_Sciences: 1.0
+Topic: 5| cluster_index: 6| cluster_weight: 6.0| weighted label: Habitat_destruction
+    Habitat_destruction: 3.0
+Topic: 6| cluster_index: 5| cluster_weight: 5.0| weighted label: Royal_Society_of_Victoria
+    Royal_Society_of_Victoria: 1.7
+Topic: 7| cluster_index: 3| cluster_weight: 3.0| weighted label: Natural_History_Museum_(Ireland)
+    Natural_History_Museum_(Ireland): 1.0
+Topic: 8| cluster_index: 4| cluster_weight: 1.0| weighted label: Proceedings
+    Proceedings: 1.0

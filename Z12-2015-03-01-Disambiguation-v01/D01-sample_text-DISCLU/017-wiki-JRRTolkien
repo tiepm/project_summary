@@ -1,0 +1,47 @@
+Topic: 1| cluster_index: 12| word_count: 18.0| weighted_label: East_Prussia
+    East_Prussia: -2.24195336632
+    Lower_Saxony: -2.28052981685
+    House_of_Hohenzollern: -2.35298075466
+    Hamburg: -2.37260740476
+    Old_Prussian_language: -2.39665492231
+    West_Germany: -2.41217383733
+Topic: 2| cluster_index: 11| word_count: 14.0| weighted_label: Rawlinson_and_Bosworth_Professor_of_Anglo-Saxon
+    Rawlinson_and_Bosworth_Professor_of_Anglo-Saxon: -1.55406888349
+    Merton_Professors: -1.58589224806
+    Middle-earth: -1.77225008183
+    Hobbit: -1.78258901585
+    Merton_College,_Oxford: -2.07001398302
+Topic: 3| cluster_index: 8| word_count: 13.0| weighted_label: British_literature
+    British_literature: -1.86537277032
+    Literary_adaptation: -1.91206405035
+    List_of_English_writers: -2.00145921118
+    Literature: -2.10844169188
+    List_of_German-language_authors: -2.32975950271
+Topic: 4| cluster_index: 10| word_count: 13.0| weighted_label: English_language
+    English_language: -0.536928798619
+    List_of_German_expressions_in_English: -0.536928798619
+Topic: 5| cluster_index: 7| word_count: 13.0| weighted_label: Patrilineality
+    Patrilineality: -0.0
+Topic: 6| cluster_index: 14| word_count: 7.0| weighted_label: Friendship
+    Friendship: -0.512290595506
+    Social_structure_of_the_United_Kingdom: -0.512290595506
+Topic: 7| cluster_index: 9| word_count: 7.0| weighted_label: British_Empire
+    British_Empire: -0.995684798246
+    World_War_I: -1.02006668078
+    Order_of_the_British_Empire: -1.11265590813
+Topic: 8| cluster_index: 16| word_count: 6.0| weighted_label: History_of_England
+    History_of_England: -0.697662208578
+    Anglo-Saxons: -0.715183743291
+    Old_Saxony: -0.730048787234
+Topic: 9| cluster_index: 5| word_count: 6.0| weighted_label: Zompist.com
+    Zompist.com: -0.0
+Topic: 10| cluster_index: 13| word_count: 5.0| weighted_label: Pembroke_College_in_Brown_University
+    Pembroke_College_in_Brown_University: -0.515897124973
+    Yale_Corporation: -0.515897124973
+Topic: 11| cluster_index: 15| word_count: 4.0| weighted_label: Citation
+    Citation: -0.386993989321
+    Internal_link: -0.386993989321
+Topic: 12| cluster_index: 6| word_count: 4.0| weighted_label: Discussion_group
+    Discussion_group: -0.0
+Topic: 13| cluster_index: 4| word_count: 1.0| weighted_label: Politics_(poem)
+    Politics_(poem): -0.0

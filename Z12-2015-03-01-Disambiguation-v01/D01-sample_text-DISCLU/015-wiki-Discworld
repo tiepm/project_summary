@@ -1,0 +1,133 @@
+Topic: 1| cluster_index: 69| word_count: 57.0| weighted_label: Granny_Weatherwax
+    Granny_Weatherwax: -0.90254922796
+    Witches_(Discworld): -0.926285841127
+    Nanny_Ogg: -0.937591422499
+    Other_dimensions_of_the_Discworld: -1.00120099297
+    Tiffany_Aching: -1.00240582351
+    Death_(Discworld): -1.03172740015
+    Susan_Sto_Helit: -1.07402915952
+    Rincewind: -1.12325630874
+Topic: 2| cluster_index: 71| word_count: 56.0| weighted_label: Ankh-Morpork_City_Watch
+    Ankh-Morpork_City_Watch: -0.997746913691
+    Sam_Vimes: -1.01953427279
+    Havelock_Vetinari: -1.0211929382
+    Ankh-Morpork: -1.05775183373
+    Discworld_geography: -1.12516954071
+    Troll_(Discworld): -1.13412574101
+    Discworld_(world): -1.14775346939
+    Dwarfs_(Discworld): -1.1752378185
+    Discworld_gods: -1.20762514117
+Topic: 3| cluster_index: 46| word_count: 35.0| weighted_label: Comic_book
+    Comic_book: -0.0
+Topic: 4| cluster_index: 68| word_count: 27.0| weighted_label: Discworld
+    Discworld: -0.0
+Topic: 5| cluster_index: 70| word_count: 26.0| weighted_label: Book_of_Joshua
+    Book_of_Joshua: -0.153152236853
+    Book_of_Numbers: -0.153152236853
+Topic: 6| cluster_index: 32| word_count: 23.0| weighted_label: Popular_Science_(film)
+    Popular_Science_(film): -0.0
+Topic: 7| cluster_index: 53| word_count: 22.0| weighted_label: Short_story
+    Short_story: -0.0
+Topic: 8| cluster_index: 50| word_count: 22.0| weighted_label: Story_arc
+    Story_arc: -0.0
+Topic: 9| cluster_index: 52| word_count: 19.0| weighted_label: Amazing_Stories
+    Amazing_Stories: -0.0
+Topic: 10| cluster_index: 30| word_count: 18.0| weighted_label: Warhammer_40,000_comics
+    Warhammer_40,000_comics: -0.0
+Topic: 11| cluster_index: 34| word_count: 18.0| weighted_label: Quiz
+    Quiz: -0.0
+Topic: 12| cluster_index: 49| word_count: 18.0| weighted_label: Children's_literature
+    Children's_literature: -0.0
+Topic: 13| cluster_index: 42| word_count: 18.0| weighted_label: Audiobook
+    Audiobook: -0.0
+Topic: 14| cluster_index: 16| word_count: 17.0| weighted_label: Big_Brother_9_(U.S.)
+    Big_Brother_9_(U.S.): -0.0
+Topic: 15| cluster_index: 39| word_count: 17.0| weighted_label: Romance_novel
+    Romance_novel: -0.0
+Topic: 16| cluster_index: 37| word_count: 16.0| weighted_label: Mortality_rate
+    Mortality_rate: -0.0
+Topic: 17| cluster_index: 25| word_count: 16.0| weighted_label: Part_(music)
+    Part_(music): -0.0
+Topic: 18| cluster_index: 26| word_count: 11.0| weighted_label: Minneapolis%E2%80%93Saint_Paul
+    Minneapolis%E2%80%93Saint_Paul: -0.0
+Topic: 19| cluster_index: 18| word_count: 11.0| weighted_label: Fantasy_Hero
+    Fantasy_Hero: -0.0
+Topic: 20| cluster_index: 61| word_count: 10.0| weighted_label: Final_Fantasy
+    Final_Fantasy: -0.0
+Topic: 21| cluster_index: 56| word_count: 10.0| weighted_label: Fantasy_world
+    Fantasy_world: -0.0
+Topic: 22| cluster_index: 15| word_count: 10.0| weighted_label: List_of_Numbers_characters
+    List_of_Numbers_characters: -0.0
+Topic: 23| cluster_index: 51| word_count: 10.0| weighted_label: Protagonist
+    Protagonist: -0.0
+Topic: 24| cluster_index: 66| word_count: 8.0| weighted_label: Phantasy_Star_Universe
+    Phantasy_Star_Universe: -0.0
+Topic: 25| cluster_index: 28| word_count: 7.0| weighted_label: Soul_music
+    Soul_music: -0.0
+Topic: 26| cluster_index: 27| word_count: 7.0| weighted_label: Police
+    Police: -0.0
+Topic: 27| cluster_index: 72| word_count: 7.0| weighted_label: Moist_von_Lipwig
+    Moist_von_Lipwig: -0.0866854162432
+    Golems_(Discworld): -0.0866854162432
+Topic: 28| cluster_index: 57| word_count: 6.0| weighted_label: Fantasy
+    Fantasy: -0.0
+Topic: 29| cluster_index: 58| word_count: 6.0| weighted_label: Wing_Commander_(franchise)
+    Wing_Commander_(franchise): -0.0
+Topic: 30| cluster_index: 21| word_count: 5.0| weighted_label: Encyclop%C3%A6dia_Britannica_First_Edition
+    Encyclop%C3%A6dia_Britannica_First_Edition: -0.0
+Topic: 31| cluster_index: 67| word_count: 5.0| weighted_label: Beatmania_IIDX_14:_Gold
+    Beatmania_IIDX_14:_Gold: -0.0
+Topic: 32| cluster_index: 19| word_count: 5.0| weighted_label: Theatre_of_Cruelty
+    Theatre_of_Cruelty: -0.0
+Topic: 33| cluster_index: 48| word_count: 5.0| weighted_label: Harry_Potter
+    Harry_Potter: -0.0
+Topic: 34| cluster_index: 54| word_count: 4.0| weighted_label: The_Big_Read
+    The_Big_Read: -0.0
+Topic: 35| cluster_index: 17| word_count: 4.0| weighted_label: Critical_thinking
+    Critical_thinking: -0.0
+Topic: 36| cluster_index: 24| word_count: 4.0| weighted_label: Sly_Cooper:_Thieves_in_Time
+    Sly_Cooper:_Thieves_in_Time: -0.0
+Topic: 37| cluster_index: 63| word_count: 4.0| weighted_label: Turntables_of_the_Night
+    Turntables_of_the_Night: -0.0
+Topic: 38| cluster_index: 35| word_count: 3.0| weighted_label: European_folklore
+    European_folklore: -0.0
+Topic: 39| cluster_index: 44| word_count: 3.0| weighted_label: Prometheus_Award
+    Prometheus_Award: -0.0
+Topic: 40| cluster_index: 59| word_count: 3.0| weighted_label: Dead_to_Rights_(series)
+    Dead_to_Rights_(series): -0.0
+Topic: 41| cluster_index: 29| word_count: 3.0| weighted_label: Cover_art
+    Cover_art: -0.0
+Topic: 42| cluster_index: 62| word_count: 3.0| weighted_label: StarCraft
+    StarCraft: -0.0
+Topic: 43| cluster_index: 55| word_count: 2.0| weighted_label: Carnegie_Medal_(literary_award)
+    Carnegie_Medal_(literary_award): -0.0
+Topic: 44| cluster_index: 64| word_count: 2.0| weighted_label: Internal_link
+    Internal_link: -0.0
+Topic: 45| cluster_index: 45| word_count: 2.0| weighted_label: Wizard_(Archie_Comics)
+    Wizard_(Archie_Comics): -0.0
+Topic: 46| cluster_index: 36| word_count: 2.0| weighted_label: Far_East
+    Far_East: -0.0
+Topic: 47| cluster_index: 41| word_count: 2.0| weighted_label: Child_abuse
+    Child_abuse: -0.0
+Topic: 48| cluster_index: 43| word_count: 2.0| weighted_label: HarperCollins
+    HarperCollins: -0.0
+Topic: 49| cluster_index: 38| word_count: 2.0| weighted_label: Alzheimer's_disease
+    Alzheimer's_disease: -0.0
+Topic: 50| cluster_index: 33| word_count: 2.0| weighted_label: Going_postal
+    Going_postal: -0.0
+Topic: 51| cluster_index: 31| word_count: 2.0| weighted_label: Film
+    Film: -0.0
+Topic: 52| cluster_index: 23| word_count: 2.0| weighted_label: Eiffel_Tower
+    Eiffel_Tower: -0.0
+Topic: 53| cluster_index: 60| word_count: 1.0| weighted_label: Thomas_&_Friends_merchandise
+    Thomas_&_Friends_merchandise: -0.0
+Topic: 54| cluster_index: 65| word_count: 1.0| weighted_label: Table_of_contents
+    Table_of_contents: -0.0
+Topic: 55| cluster_index: 20| word_count: 1.0| weighted_label: Virtual_reality
+    Virtual_reality: -0.0
+Topic: 56| cluster_index: 40| word_count: 1.0| weighted_label: Car_turntable
+    Car_turntable: -0.0
+Topic: 57| cluster_index: 47| word_count: 1.0| weighted_label: Literary_adaptation
+    Literary_adaptation: -0.0
+Topic: 58| cluster_index: 22| word_count: 1.0| weighted_label: Barbarian:_The_Ultimate_Warrior
+    Barbarian:_The_Ultimate_Warrior: -0.0

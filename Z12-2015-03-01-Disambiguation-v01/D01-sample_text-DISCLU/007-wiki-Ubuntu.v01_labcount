@@ -1,0 +1,82 @@
+Topic: 1| cluster_index: 29| cluster_weight: 121.0| weighted label: List_of_Ubuntu_releases
+    List_of_Ubuntu_releases: 21.0
+    Ubuntu_Foundation: 17.0
+    Ubuntu_Netbook_Edition: 12.0
+    Package_(package_management_system): 7.5
+    Unity_(user_interface): 7.5
+    Package_format: 6.5
+    Wine_(software): 5.3
+    Canonical_Ltd.: 4.0
+    Advanced_Packaging_Tool: 2.0
+    Uncomplicated_Firewall: 1.5
+    Buffer_overflow_protection: 1.0
+    Ubiquity_(software): 1.0
+    Lubuntu: 1.0
+    VMware_Workstation: 1.0
+    VirtualBox: 1.0
+    Synaptic_(software): 1.0
+    Pidgin_(software): 1.0
+    Empathy_(software): 1.0
+    Polkit: 1.0
+    Xubuntu: 1.0
+Topic: 2| cluster_index: 28| cluster_weight: 97.0| weighted label: Ubuntu_(operating_system)
+    Ubuntu_(operating_system): 31.0
+    Free_software: 6.0
+    Debian: 6.0
+    Linux_distribution: 4.8
+    Linux: 4.7
+    Open_source: 3.0
+    GNU_Compiler_Collection: 2.5
+    Graphical_user_interface: 2.0
+    GNOME: 1.0
+    ARM_architecture: 1.0
+    PowerPC: 1.0
+Topic: 3| cluster_index: 34| cluster_weight: 30.0| weighted label: Long-term_support
+    Long-term_support: 5.7
+    Point_release: 4.3
+Topic: 4| cluster_index: 25| cluster_weight: 14.0| weighted label: Technical_support
+    Technical_support: 7.0
+Topic: 5| cluster_index: 33| cluster_weight: 13.0| weighted label: Open_security
+    Open_security: 2.7
+    Principle_of_least_privilege: 1.7
+Topic: 6| cluster_index: 13| cluster_weight: 13.0| weighted label: Desktop_Management_Interface
+    Desktop_Management_Interface: 6.5
+Topic: 7| cluster_index: 31| cluster_weight: 12.0| weighted label: Cloud_computing
+    Cloud_computing: 1.8
+    Amazon_Elastic_Compute_Cloud: 1.5
+Topic: 8| cluster_index: 17| cluster_weight: 12.0| weighted label: Third-party_software_component
+    Third-party_software_component: 4.0
+Topic: 9| cluster_index: 30| cluster_weight: 11.0| weighted label: Patch_(computing)
+    Patch_(computing): 1.8
+    Windows_ME: 1.3
+Topic: 10| cluster_index: 12| cluster_weight: 11.0| weighted label: Range_Software
+    Range_Software: 3.7
+Topic: 11| cluster_index: 14| cluster_weight: 8.0| weighted label: Security_interest
+    Security_interest: 4.0
+Topic: 12| cluster_index: 20| cluster_weight: 7.0| weighted label: Chinese_character_encoding
+    Chinese_character_encoding: 2.3
+Topic: 13| cluster_index: 32| cluster_weight: 5.0| weighted label: Microsoft_Office
+    Microsoft_Office: 1.5
+    Microsoft_Office_2000: 1.3
+    LibreOffice: 1.0
+Topic: 14| cluster_index: 26| cluster_weight: 4.0| weighted label: GNOME_Disks
+    GNOME_Disks: 1.3
+Topic: 15| cluster_index: 27| cluster_weight: 4.0| weighted label: User_(computing)
+    User_(computing): 1.5
+    Server_(computing): 1.0
+Topic: 16| cluster_index: 15| cluster_weight: 4.0| weighted label: Installed_base
+    Installed_base: 1.3
+Topic: 17| cluster_index: 18| cluster_weight: 4.0| weighted label: Undocumented_feature
+    Undocumented_feature: 4.0
+Topic: 18| cluster_index: 19| cluster_weight: 3.0| weighted label: Latin_script
+    Latin_script: 1.0
+Topic: 19| cluster_index: 16| cluster_weight: 3.0| weighted label: Consumer_Electronics_Show
+    Consumer_Electronics_Show: 1.0
+Topic: 20| cluster_index: 23| cluster_weight: 2.0| weighted label: Internal_link
+    Internal_link: 1.0
+Topic: 21| cluster_index: 24| cluster_weight: 1.0| weighted label: Citation
+    Citation: 1.0
+Topic: 22| cluster_index: 22| cluster_weight: 1.0| weighted label: Firefox_OS
+    Firefox_OS: 1.0
+Topic: 23| cluster_index: 21| cluster_weight: 1.0| weighted label: Execution_(computing)
+    Execution_(computing): 1.0

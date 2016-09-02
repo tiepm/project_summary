@@ -1,0 +1,49 @@
+Microsoft Windows is a series of graphical interface operating systems developed, marketed, and sold by Microsoft.
+
+Microsoft introduced an operating environment named Windows on November 20, 1985 as a graphical operating system shell for MS-DOS in response to the growing interest in graphical user interfaces (GUIs).[5] Microsoft Windows came to dominate the world's personal computer market with over 90% market share, overtaking Mac OS, which had been introduced in 1984.
+
+As of April 2014, the most recent versions of Windows for personal computers, smartphones, server computers and embedded devices are respectively Windows 8.1, Windows Phone 8.1, Windows Server 2012 R2 and Windows Embedded 8.
+
+Contents
+
+    1 Version history
+        1.1 Early versions
+        1.2 Windows 3.0 and 3.1
+        1.3 Windows 9x
+        1.4 Windows NT
+            1.4.1 Early versions
+            1.4.2 Windows XP
+            1.4.3 Windows Vista and later
+            1.4.4 Multilingual support: IMEs and LIPs
+            1.4.5 Platform support
+        1.5 Windows CE
+    2 Timeline of releases
+    3 Usage share
+    4 Security
+        4.1 File permissions
+        4.2 Windows Defender
+        4.3 Third-party analysis
+    5 Alternative implementations
+    6 See also
+    7 References
+    8 External links
+
+Version history
+Main article: History of Microsoft Windows
+See also: List of Microsoft Windows versions
+
+The term Windows collectively describes any or all of several generations of Microsoft operating system products. These products are generally categorized as follows:
+Early versions
+
+The history of Windows dates back to September 1981, when Chase Bishop, a computer scientist, designed the first model of an electronic device and project "Interface Manager" was started. It was announced in November 1983 (after the Apple Lisa, but before the Macintosh) under the name "Windows", but Windows 1.0 was not released until November 1985.[6] Windows 1.0 was to compete with Apple's operating system, but achieved little popularity. Windows 1.0 is not a complete operating system; rather, it extends MS-DOS. The shell of Windows 1.0 is a program known as the MS-DOS Executive. Components included Calculator, Calendar, Cardfile, Clipboard viewer, Clock, Control Panel, Notepad, Paint, Reversi, Terminal and Write. Windows 1.0 does not allow overlapping windows. Instead all windows are tiled. Only modal dialog boxes may appear over other windows.
+
+Windows 2.0 was released in December 1987 and was more popular than its predecessor. It features several improvements to the user interface and memory management.[citation needed] Windows 2.03 changed the OS from tiled windows to overlapping windows. The result of this change led to Apple Computer filing a suit against Microsoft alleging infringement on Apple's copyrights.[7][8] Windows 2.0 also introduced more sophisticated keyboard shortcuts and could make use of expanded memory.
+
+Windows 2.1 was released in two different versions: Windows/286 and Windows/386. Windows/386 uses the virtual 8086 mode of Intel 80386 to multitask several DOS programs and the paged memory model to emulate expanded memory using available extended memory. Windows/286, in spite of its name, runs on both Intel 8086 and Intel 80286 processors. It runs in real mode but can make use of the high memory area.
+
+In addition to full Windows-packages, there were runtime-only versions that shipped with early Windows software from third parties and made it possible to run their Windows software on MS-DOS and without the full Windows feature set.
+
+The early versions of Windows are often thought of as graphical shells, mostly because they ran on top of MS-DOS and use it for file system services.[9] However, even the earliest Windows versions already assumed many typical operating system functions; notably, having their own executable file format and providing their own device drivers (timer, graphics, printer, mouse, keyboard and sound). Unlike MS-DOS, Windows allowed users to execute multiple graphical applications at the same time, through cooperative multitasking. Windows implemented an elaborate, segment-based, software virtual memory scheme, which allows it to run applications larger than available memory: code segments and resources are swapped in and thrown away when memory became scarce; data segments moved in memory when a given application had relinquished processor control.
+Windows 3.0 and 3.1
+
+

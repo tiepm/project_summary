@@ -1,0 +1,9 @@
+Topic: 1| cluster_index: 2| word_count: 16.0| weighted_label: Wireless_network
+    Wireless_network: -1.38908507998
+    IP_forwarding_algorithm: -2.04786582256
+    Optical_communication: -2.0779151129
+    Symposium_on_Theory_of_Computing: -2.69280306682
+Topic: 2| cluster_index: 1| word_count: 6.0| weighted_label: Gain%E2%80%93bandwidth_product
+    Gain%E2%80%93bandwidth_product: -0.0
+Topic: 3| cluster_index: 0| word_count: 2.0| weighted_label: Cannes
+    Cannes: -0.0

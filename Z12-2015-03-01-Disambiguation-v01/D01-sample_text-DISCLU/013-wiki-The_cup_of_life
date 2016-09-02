@@ -1,0 +1,28 @@
+Topic: 1| cluster_index: 10| word_count: 16.0| weighted_label: FIFA_World_Cup_official_songs
+    FIFA_World_Cup_official_songs: -0.0
+Topic: 2| cluster_index: 13| word_count: 10.0| weighted_label: Music_video
+    Music_video: -0.383864676746
+    Billboard_Hot_100: -0.383864676746
+Topic: 3| cluster_index: 3| word_count: 6.0| weighted_label: Alma_mater
+    Alma_mater: -0.0
+Topic: 4| cluster_index: 12| word_count: 5.0| weighted_label: Austria
+    Austria: -1.53993351393
+    Switzerland: -1.54499231476
+    Sweden: -1.55447617408
+    Netherlands: -1.60582050874
+    Norway: -1.60608889768
+Topic: 5| cluster_index: 5| word_count: 3.0| weighted_label: United_States
+    United_States: -0.0
+Topic: 6| cluster_index: 7| word_count: 3.0| weighted_label: United_Kingdom
+    United_Kingdom: -0.0
+Topic: 7| cluster_index: 8| word_count: 3.0| weighted_label: France
+    France: -0.0
+Topic: 8| cluster_index: 9| word_count: 3.0| weighted_label: 41st_Annual_Grammy_Awards
+    41st_Annual_Grammy_Awards: -0.0
+Topic: 9| cluster_index: 11| word_count: 3.0| weighted_label: Hispanic
+    Hispanic: -0.421155975624
+    Puerto_Rico: -0.421155975624
+Topic: 10| cluster_index: 4| word_count: 1.0| weighted_label: Cusco_(band)
+    Cusco_(band): -0.0
+Topic: 11| cluster_index: 6| word_count: 1.0| weighted_label: West_Germany
+    West_Germany: -0.0

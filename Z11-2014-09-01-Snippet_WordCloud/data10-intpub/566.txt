@@ -1,0 +1,34 @@
+####
+Algorithms for Massive Data Sets
+I/O-efficient Algorithms
+Parallel Cache-efficient Algorithms
+Algorithm Engineering
+Graph Algorithms 
+@@@@
+Generating synthetic task graphs for simulating stream computing systems. 
+ A Topological Sorting Algorithm for Large Graphs. 
+ Conflict-Free Coloring for Rectangle Ranges Using O(n^{0.382+\epsilon}) Colors, 
+ Average-case analysis of Online Topological Ordering, 
+ An O(n^{2.75}) Algorithm for Online Topological Ordering, 
+ Empirical Evaluation of the Parallel Distribution Sweeping Framework on Multicore Architectures, 
+ Seeds for a heterogeneous interconnect, 
+ A network configuration algorithm based on optimisation of Kirchhoff index, 
+ I/O-efficient hierarchical diameter approximation, 
+ Graph Partitioning for Reconfigurable Topology, 
+ A Flexible Workload Generator for Simulating Stream Computing Systems, 
+ I/O-optimal Algorithms for Orthogonal Problems for Private-Cache Chip Multiprocessors, 
+ Engineering a Topological Sorting Algorithm for Massive Graphs, 
+ Geometric Algorithms for Private-Cache Chip Multiprocessors, 
+ On Computational Models for Flash Memory Devices, 
+ Characterizing the Performance of Flash Memory Storage Devices and Its Impact on Algorithm Design, 
+ Average-Case Analysis of Online Topological Ordering, 
+ On Computing the Centroid of the Vertices of an Arrangement and Related Problems, 
+ Conflict-Free Coloring for Rectangle Ranges Using O(n^{0.382+\epsilon}) Colors, 
+ Improved External Memory BFS Implementations, 
+ An O(n^{2.75}) Algorithm for Online Topological Ordering, 
+ A Computational Study of External Memory BFS Algorithms, 
+ Realistic Computer Models, 
+ Design and Engineering of External Memory Traversal Algorithms for General Graphs, 
+ Breadth First Search on Massive Graphs, 
+A Flexible Workload Generator for Simulating Stream Computing Systems, 
+ Systems and Methods For Distance Approximation In Graphs, 

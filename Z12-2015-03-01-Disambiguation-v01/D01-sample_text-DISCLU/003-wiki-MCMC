@@ -1,0 +1,40 @@
+Topic: 1| cluster_index: 19| word_count: 65.0| weighted_label: Metropolis%E2%80%93Hastings_algorithm
+    Metropolis%E2%80%93Hastings_algorithm: -0.274361663026
+    Gibbs_sampling: -0.287714741409
+    Markov_chain_Monte_Carlo: -0.299267101243
+Topic: 2| cluster_index: 17| word_count: 43.0| weighted_label: Slice_sampling
+    Slice_sampling: -0.279040434453
+    Multiple-try_Metropolis: -0.33595407728
+    Inverse_transform_sampling: -0.392143537043
+Topic: 3| cluster_index: 16| word_count: 32.0| weighted_label: Conditional_probability_distribution
+    Conditional_probability_distribution: -0.203715258908
+    Sample_space: -0.203715258908
+Topic: 4| cluster_index: 14| word_count: 30.0| weighted_label: Empirical_distribution_function
+    Empirical_distribution_function: -0.0
+Topic: 5| cluster_index: 11| word_count: 30.0| weighted_label: Monte_Carlo_method
+    Monte_Carlo_method: -0.0
+Topic: 6| cluster_index: 9| word_count: 24.0| weighted_label: Sampling_(statistics)
+    Sampling_(statistics): -0.0
+Topic: 7| cluster_index: 18| word_count: 19.0| weighted_label: Probability_distribution
+    Probability_distribution: -0.156215480676
+    Normal_distribution: -0.156215480676
+Topic: 8| cluster_index: 3| word_count: 19.0| weighted_label: Rare_Event_Sampling
+    Rare_Event_Sampling: -0.0
+Topic: 9| cluster_index: 13| word_count: 16.0| weighted_label: Markov_chain
+    Markov_chain: -0.0
+Topic: 10| cluster_index: 12| word_count: 15.0| weighted_label: Stationary_distribution
+    Stationary_distribution: -0.0
+Topic: 11| cluster_index: 8| word_count: 14.0| weighted_label: Method_(computer_programming)
+    Method_(computer_programming): -0.0
+Topic: 12| cluster_index: 7| word_count: 11.0| weighted_label: Operational_semantics
+    Operational_semantics: -0.0
+Topic: 13| cluster_index: 10| word_count: 9.0| weighted_label: Randomness
+    Randomness: -0.0
+Topic: 14| cluster_index: 4| word_count: 7.0| weighted_label: Dimension_(mathematics_and_physics)
+    Dimension_(mathematics_and_physics): -0.0
+Topic: 15| cluster_index: 5| word_count: 4.0| weighted_label: Potential_energy
+    Potential_energy: -0.0
+Topic: 16| cluster_index: 15| word_count: 3.0| weighted_label: Bayesian_statistics
+    Bayesian_statistics: -0.0
+Topic: 17| cluster_index: 6| word_count: 1.0| weighted_label: Requirement
+    Requirement: -0.0

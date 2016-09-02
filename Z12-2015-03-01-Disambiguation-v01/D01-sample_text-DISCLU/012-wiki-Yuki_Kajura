@@ -1,0 +1,46 @@
+Topic: 1| cluster_index: 19| word_count: 35.0| weighted_label: Soundtrack
+    Soundtrack: -1.2826094463
+    Theme_music: -1.34433177763
+    Video_game_music: -1.40042946855
+    Anime: -1.4621230873
+Topic: 2| cluster_index: 18| word_count: 26.0| weighted_label: Backing_vocalist
+    Backing_vocalist: -1.20564822444
+    Record_producer: -1.21852411209
+    Musical_ensemble: -1.27563977854
+    Solo_album: -1.4663487524
+Topic: 3| cluster_index: 16| word_count: 17.0| weighted_label: Classical_music
+    Classical_music: -1.36898402239
+    Musical_composition: -1.38889729695
+    BBC_Concert_Orchestra: -1.56003215887
+    Musical_theatre: -1.63189486156
+Topic: 4| cluster_index: 20| word_count: 13.0| weighted_label: Xenosaga
+    Xenosaga: -1.05009502029
+    Aquarian_Age: -1.07481355607
+    List_of_Tsubasa:_Reservoir_Chronicle_episodes: -1.29476383189
+    Anime_Expo: -1.36095012166
+Topic: 5| cluster_index: 11| word_count: 9.0| weighted_label: List_of_Mobile_Suit_Gundam_SEED_Destiny_episodes
+    List_of_Mobile_Suit_Gundam_SEED_Destiny_episodes: -0.0
+Topic: 6| cluster_index: 12| word_count: 8.0| weighted_label: List_of_Mobile_Suit_Gundam_SEED_episodes
+    List_of_Mobile_Suit_Gundam_SEED_episodes: -0.0
+Topic: 7| cluster_index: 9| word_count: 8.0| weighted_label: List_of_Kimagure_Orange_Road_episodes
+    List_of_Kimagure_Orange_Road_episodes: -0.0
+Topic: 8| cluster_index: 21| word_count: 7.0| weighted_label: Discography
+    Discography: -0.385372538853
+    Compilation_album: -0.385372538853
+Topic: 9| cluster_index: 6| word_count: 6.0| weighted_label: Seesaw
+    Seesaw: -0.0
+Topic: 10| cluster_index: 10| word_count: 5.0| weighted_label: Tokyo_International_Forum
+    Tokyo_International_Forum: -0.0
+Topic: 11| cluster_index: 7| word_count: 3.0| weighted_label: List_of_Sword_Art_Online_episodes
+    List_of_Sword_Art_Online_episodes: -0.0
+Topic: 12| cluster_index: 15| word_count: 3.0| weighted_label: Artistic_freedom
+    Artistic_freedom: -0.0
+Topic: 13| cluster_index: 17| word_count: 3.0| weighted_label: Citation
+    Citation: -0.529815369299
+    English_as_a_second_or_foreign_language: -0.529815369299
+Topic: 14| cluster_index: 8| word_count: 3.0| weighted_label: List_of_Fate/Zero_episodes
+    List_of_Fate/Zero_episodes: -0.0
+Topic: 15| cluster_index: 13| word_count: 2.0| weighted_label: List_of_Madlax_characters
+    List_of_Madlax_characters: -0.0
+Topic: 16| cluster_index: 14| word_count: 2.0| weighted_label: West_Germany
+    West_Germany: -0.0

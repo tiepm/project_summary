@@ -1,0 +1,24 @@
+Topic: 1| cluster_index: 5| cluster_weight: 81.0| weighted label: Online_algorithm
+    Online_algorithm: 19.0
+    Dijkstra's_algorithm: 9.2
+    Graph_traversal: 9.0
+    Shortest_path_problem: 8.4
+    Priority_queue: 2.7
+    Fibonacci_heap: 1.0
+Topic: 2| cluster_index: 8| cluster_weight: 61.0| weighted label: Distance_(graph_theory)
+    Distance_(graph_theory): 22.0
+    Graph_coloring: 13.0
+    Vertex_(graph_theory): 4.3
+Topic: 3| cluster_index: 7| cluster_weight: 28.0| weighted label: Summation
+    Summation: 11.5
+    Natural_number: 1.7
+Topic: 4| cluster_index: 2| cluster_weight: 9.0| weighted label: Start_Point_(Livingston_Island)
+    Start_Point_(Livingston_Island): 4.5
+Topic: 5| cluster_index: 3| cluster_weight: 8.0| weighted label: Computer_science
+    Computer_science: 2.0
+Topic: 6| cluster_index: 6| cluster_weight: 3.0| weighted label: Pseudocode
+    Pseudocode: 1.0
+    Reference_(computer_science): 1.0
+    Control_flow: 1.0
+Topic: 7| cluster_index: 4| cluster_weight: 1.0| weighted label: Open_Shortest_Path_First
+    Open_Shortest_Path_First: 1.0

@@ -1,0 +1,100 @@
+####
+﻿Optical networks
+Optical communication systems
+Transmission WDM systems
+High capacity optical systems
+Communication technologies
+RF & Hyperfrequency technologies
+Digital signal processing 
+@@@@
+1.28 Tbit/s (32×40 Gbit/s) WDM transmission over 2400 km of TeraLightTM/Reverse TeraLight(C) fibres using distributed all-Raman amplification; 
+ Cost-optimized 6.3Tbit/s-capacity terrestrial link over 17x100km using Phase-Shaped Binary Transmission in a conventional all-EDFA SMF-based system, 
+ 80x10.7Gbit/s with NRZ, RZ and RZ-DPSK formats over sixty 100-km long terrestrial (non dispersion managed) fiber spans with all-Raman amplification, 
+ One-hundred WDM-channel transatlantic transmission experiment at 43Gbit/s using Raman repeaters with large 65km spacing, 
+ WDM Transmission at 6 Tbit/s capacity over transatlantic distance, using 42.7Gb/s Differential Phase-Shift Keying without pulse carver, 
+ WDM Bit-to-Bit Alternate-Polarisation RZ-DPSK transmission at 40x42.7Gbit/s over transpacific distance with large Q-factor margin, 
+ Upgrade of 10Gbit/s Ultra Long Haul System to 40Gbit/s thanks to APol RZ-DPSK modulation format,  
+ Transmission of 40Gbit/s QPSK with coherent detection over ultra-long distance improved by nonlinearity mitigation, 
+ 12.8Tbit/s Transmission of 160 PDM-QPSK (160x2x40Gbit/s) Channels with Coherent Detection over 2,550km, 
+ Transmission of 16.4Tbit/s capacity over 2,550km using PDM QPSK modulation format and a coherent receiver, 
+ fibre
+ 72x100Gb/s transmission over transoceanic distance, using large effective area fiber, hybrid Raman-Erbium amplification and coherent detection, 
+ 155×100Gbit/s coherent PDM-QPSK transmission over 7,200km; 
+ 09. 35th European Conference 
+ Transmission at 2x100Gb/s, over two modes of 40-km-long prototype few-mode fiber, using LCOS-based mode multiplexer and demultiplexer, 
+ WDM 200Gb/s single-carrier PDM-QPSK transmission over 12,000km, 
+ 31 Tb/s Transmission over 7,200 km Using 46 Gbaud PDM-8QAM with Optimized Error Correcting Code Rate 
+ 38.75 Tb/s Transmission Experiment over Transoceanic Distance 
+ PIC-to-PIC experiment at 130Gb/s Based on a Monolithic Transmitter Using Switching of Prefixed Optical Phases and a Monolithic Coherent Receiver 
+ Ultra-Compact Monolithic Integrated InP Transmitter at 224 Gb/s with PDM-2ASK-2PSK modulation 
+ 1.28 Tbit/s (32×40 Gbit/s) WDM transmission over 2400 km of TeraLightTM/Reverse TeraLight(C) fibres using distributed all-Raman amplification; 
+ High-order dispersion-managed solitons for DWDM transmissions; 
+ Transmission at 2.5Tbit/s (63x43Gbit/s WDM) over transatlantic distance using RZ-DPSK format, 
+ Performance comparison of DPSK and RZ-DPSK formats in Nx43Gb/s submarine transmission with 100GHz channel spacing, 
+ 2.5Tbit/s (63x43Gbit/s WDM) transmission over transpacific distance using RZ-DPSK format and all-Raman amplification; 
+ Experimental validation of bit-to-bit polarization interleaving format for submarine transmission at Nx43 Gbit/s; 
+ Comparison of system performance at 50, 62.5 and 100GHz channel spacing over transoceanic distances at 40Gbit/s channel rate using RZ-DPSK, 
+Upgrade of 10Gbit/s ultra-long-haul system to 40Gbit/s with APol RZ-DPSK modulation format, 
+ Nonlinear Interactions Between 10Gb/s Channels and 40Gb/s Channels with either RZ-DQPSK or PSBT Format, over Low-Dispersion Fiber, 
+ Improvement of tolerance to non linearities resulting from small sequence modifications in 40Gbit/s optical transmission, 
+ Comparative Study of Crosstalk Created in 50 GHz-Spaced Wavelength Selective Switch for Various Modulation Formats at 43 Gbit/s; 
+ Performance comparison of singly-polarized and polarisation-multiplexed coherent transmission at 10Gbauds under linear impairments, 
+ Performance comparison of singly-polarized and polarization-multiplexed at 10Gbaud under nonlinear impairments, 
+ Linear fiber impairments mitigation of 40-Gbit/s polarization multiplexed QPSK by digital processing in a coherent receiver, 
+ Experimental Analysis of 100Gb/s Coherent PDM-QPSK Long-Haul Transmission under Constraints of Typical Terrestrial Networks, 
+ Impact of Temporal Interleaving of Polarization Tributaries onto 100Gb/s coherent transmission systems with RZ Pulse carving, 
+ Investigation of Design Options for Overlaying 40Gb/s Coherent PDM-QPSK Channels over a 10Gb/s System Infrastucture, 
+ Nonlinearity Limitations when Mixing 40Gb/s Coherent PDM-QPSK Channels with Preesxisting 10Gb/s NRZ Channels, 
+ Impact of nonlinear impairments on the tolerance to PMD of 100Gb/s PDM-QPSK data processed in a coherent receiver, 
+ Experimental Assessment of Interactions Between Nonlinear Impairments and to Polarization Mode Dispersion in 100Gb/s Coherent Systems versus Receiver Complexity, 
+ Transmission of 16.4Tbit/s Capacity over 2,550km using PDM QPSK Modulation Format and Coherent Receiver, 
+ Performance Comparision of DPSK, P-DPSK, RZ-DQPSK and Coherent PDM-QPSK at 40Gb/s over Terrestrial Link, 
+ Digital Signal Processing in Coherent Receivers for 100 Gb/s Ultra Long-Haul Applications, 
+ Single-Carrier vs. Dual-Carrier Transmission of 100Gb/s coherent PDM-QPSK over NZ-DSF Fibre, 
+ System Benefits of Temporal Polarization Interleaving with 100Gb/s Coherent PDM-QPSK, 
+ Insertion of 100Gb/s Coherent PDM-QPSK Channels over Legacy Optical Networks Relying on Low Chromatic Dispersion Fibres, 
+ Transmission of 2.6-Tb/s using 100Gb/s PDM-QPSK Paired with a Coherent Receiver Over a 401-km Unrepeatered Link, 
+ Transmission of 100Gb/s Coherent PDM-QPSK over 16x100km of Standard Fiber with all-erbium amplifiers, 
+ Performance Comparison of 40G and 100G Coherent PDM-QPSK for Upgrading Dispersion Managed Legacy Systems, 
+ On the Required Number of WDM Channels When Assessing Performance of 100Gb/s Coherent PDM-QPSK Overlaying Legacy Systems, 
+ Investigation on WDM Nonlinear Impairments Arising from the Insertion of 100Gb/s Coherent PDM-QPSK over Legacy Optical Networks,  
+ PDM-QPSK: on the system benefits arising from temporally interleaving polarization tributaries at 100Gb/s, 
+ Dual- versus single-carrier configuration for 40 Gb/s coherent BPSK-based solutions over low dispersion fibers, 
+ Experimental Comparison between Binary and Quadrature Phase Shift Keying at 40Gbit/s in a Transmission System Using Coherent Detection, 
+ Higher capacity with smaller global energy consumption in core optical networks due to elastic channel spacing, 
+ Optical packet ring network offering bit rate and modulation formats transparency; 
+ Demonstration of the benefits brought by PMD in polarization multiplexed systems, 
+ Recent advances in submarine optical communication systems, 
+  80×100-Gbit/s transmission over 9,000km using erbium-doped fibre repeaters only 
+ Impact of transmitter bandwidth on transmission performance of coherent 112-Gb/s PDM-QPSK systems, 
+ 8Tb/s long-haul transmission over low dispersion fibres using 100 Gb/s PDM-QPSK channels paired with coherent detection, 
+ Nonlinear Tolerance of Ultra-Densely spaced 100Gb/s Coherent PDM-QPSK channels, 
+ Linear and nonlinear impairment mitigation for enhanced transmission performance, 
+ Transmission of 96×100Gb/s with 23% Super-FEC Overhead over 11,680km, using Optical Spectral Engineering, 
+ Transmission of 40x200-Gb/s Polarization Division Multiplexed Quadrature Phase Shift Keyed channels over 6,600 km, 
+ 15.4 Tb/s transmission over 2400 km using polarization multiplexed 32-Gbaud 16-QAM modulation and coherent detection comprising digital signal processing, 
+ Tolerance to nonlinearity of 40 Gb/s BPSK-based coherent solution over legacy systems based on non-zero dispersion-shifted fibers, 
+  Experimental comparison of 28Gbaud PS- and PDM-QPSK in WDM Long-Haul Transmission System, 
+ Will 100-G resist higher bit rates?, 
+ Long-Haul WDM Transmission of 448-Gb/s Polarization-Division-Multiplexed 16-ary Quadrature-Amplitude-Modulation using Coherent Detection, 
+ Experimental Investigation of Modal Crosstalk using LCOS-based Spatial Light Modulator for Mode Conversion, 
+ Two-Mode Transmission with Digital Inter-Modal Cross-Talk Mitigation, 
+ Two mode transmission at 2x100Gb/s, over 40km-long prototype few-mode fiber, using LCOS based programmable mode multiplexer and demultiplexer, 
+ Generation and Detection of 28Gbaud Polarization Switched-QPSK in WDM Long-Haul Transmission Systems, » submitted for publication to Journal 
+ Experimental assessment of transmission reach for uncompensated 32-GBaud PDM-QPSK and PDM-16QAM, 
+  Overlaying 10-Gb/s Legacy Optical Networks with 40-Gb/s and 100-Gb/s Coherent Terminals, 
+ Spectrally Efficient Long-Haul Transmission of 22-Tb/s using 40-Gbaud PDM-16QAM with Coherent Detection, 
+ Mode Division Multiplexing of 2 x 100Gb/s Channels using an LCOS based Spatial Modulator 
+ Special Issue OFC 2011, 
+ Generation and Detection of 28 Gbaud Polarization Switched-QPSK in WDM Long-Haul Transmission Systems 
+ In-line Few-Mode Optical Amplifier with Erbium Profile Tuned to Support LP01, LP11, and LP21 Mode Groups 
+ Performance Analysis of Decision-Aided Nonlinear Cross-Polarization Mitigation Algorithm 
+ 100 Gb/s and Beyond for Submarine Systems 
+ Comparison of ISI-mitigation techniques for 128 Gb/s PDM QPSK Channels in Ultra-Dense Coherent Systems 
+ Transmission of 50-GHz-Spaced Single-Carrier Channels at 516Gb/s over 600km 
+ Submarine transmissions with spectral efficiency higher than 3 b/s/Hz using Nyquist pulse-shaped channels 
+ Experimental Transmission of Nyquist Pulse Shaped 4-D Coded Modulation using Dual Polarization 16QAM Set-Partitioning Schemes at 28 Gbaud 
+ 56Gb/s PDM-BPSK Experiment with a Novel InP-Monolithic Source Based on Prefixed Optical Phase Switching 
+ High Speed Multi-Level Drivers for Spectrally Efficient Optical Transmission Systems 
+Apparatus comprising a wireless communication device and a defibrillator 
+ Coherent transponder for optical PS-QPSK signals, 

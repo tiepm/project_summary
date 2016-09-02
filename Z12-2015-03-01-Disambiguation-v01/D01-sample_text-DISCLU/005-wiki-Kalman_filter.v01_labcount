@@ -1,0 +1,104 @@
+Topic: 1| cluster_index: 24| cluster_weight: 269.0| weighted label: Kalman_filter
+    Kalman_filter: 42.5
+    Recursive_filter: 25.0
+    State_space_representation: 22.0
+    Nonlinear_filter: 20.3
+    Estimation: 18.0
+    Navigation_system: 12.0
+    Covariance_intersection: 11.0
+    Linear_dynamical_system: 10.7
+    Smoothing: 9.5
+    Correlation_and_dependence: 6.5
+    Linear-quadratic-Gaussian_control: 6.0
+    Linear_belief_function: 5.7
+    Hidden_Markov_model: 5.5
+    Bayesian_network: 5.5
+    Estimation_of_covariance_matrices: 5.2
+    Errors_and_residuals_in_statistics: 4.0
+    Time_series: 4.0
+    Normal_distribution: 3.5
+    Recursive_Bayesian_estimation: 3.5
+    Data_fusion: 3.3
+    GPS/INS: 3.0
+    Estimation_theory: 2.6
+    Prediction: 1.0
+Topic: 2| cluster_index: 27| cluster_weight: 117.0| weighted label: Thermodynamic_system
+    Thermodynamic_system: 18.0
+    Root-mean-square_speed: 13.5
+    Equation_of_state: 13.0
+    State_variable: 9.7
+    Phase_(matter): 6.0
+Topic: 3| cluster_index: 21| cluster_weight: 117.0| weighted label: Digital_filter
+    Digital_filter: 24.5
+    Free-space_path_loss: 8.5
+    Noise_(electronics): 5.3
+    Gain: 4.5
+    High-gain_antenna: 4.5
+    Low-gain_antenna: 4.0
+    Signal-to-noise_ratio: 3.7
+    Demodulation: 1.7
+    Electronics: 1.7
+    Detection_theory: 1.2
+Topic: 4| cluster_index: 19| cluster_weight: 109.0| weighted label: Dynamical_system
+    Dynamical_system: 10.5
+    Mathematical_model: 10.0
+    Mathematics: 10.0
+    Nonlinear_system: 9.5
+    Control_engineering: 8.7
+    Control_theory: 6.0
+    Special_case: 5.0
+    Empirical_evidence: 5.0
+    Representation_theory: 4.7
+    Quantity: 4.0
+    Orthogonal_group: 2.3
+    Newton's_laws_of_motion: 2.3
+    Derivative: 2.0
+    Scientific_method: 1.7
+    Invariant_(physics): 1.0
+Topic: 5| cluster_index: 26| cluster_weight: 107.0| weighted label: Measurement_problem
+    Measurement_problem: 18.0
+    Nonlinear_Schr%C3%B6dinger_equation: 14.6
+    Gaussian_integral: 6.0
+    Uncertainty_principle: 5.0
+Topic: 6| cluster_index: 25| cluster_weight: 92.0| weighted label: Navigation
+    Navigation: 15.0
+    Inertial_navigation_system: 6.5
+    Outer_space: 6.5
+    Attitude_control: 4.0
+    Global_Positioning_System: 3.0
+    Space_Shuttle_program: 2.3
+    International_Space_Station: 2.0
+    Apollo_program: 1.5
+    Ames_Research_Center: 1.2
+Topic: 7| cluster_index: 29| cluster_weight: 78.0| weighted label: Atmospheric_model
+    Atmospheric_model: 12.5
+    Sensitivity_analysis: 1.5
+Topic: 8| cluster_index: 18| cluster_weight: 47.0| weighted label: Ground_Launched_Cruise_Missile
+    Ground_Launched_Cruise_Missile: 7.5
+    Future_Combat_Systems_Manned_Ground_Vehicles: 4.0
+    Tomahawk_(missile): 2.3
+    Ballistic_missile_submarine: 2.0
+    Cruise_missile: 2.0
+Topic: 9| cluster_index: 28| cluster_weight: 30.0| weighted label: Factors_of_production
+    Factors_of_production: 5.0
+    Macroeconomic_model: 5.0
+    Zero-sum_game: 4.0
+    Modern_portfolio_theory: 1.0
+Topic: 10| cluster_index: 15| cluster_weight: 29.0| weighted label: New_states_of_Germany
+    New_states_of_Germany: 14.5
+Topic: 11| cluster_index: 20| cluster_weight: 27.0| weighted label: Communist_state
+    Communist_state: 12.0
+    Communism: 2.0
+    Moscow: 1.0
+Topic: 12| cluster_index: 22| cluster_weight: 22.0| weighted label: Stream_(computing)
+    Stream_(computing): 3.0
+    Recursion_(computer_science): 2.7
+    Asymptotically_optimal_algorithm: 1.0
+    Reference_(computer_science): 1.0
+Topic: 13| cluster_index: 16| cluster_weight: 11.0| weighted label: Demographic_transition
+    Demographic_transition: 5.5
+Topic: 14| cluster_index: 17| cluster_weight: 10.0| weighted label: Real-time_computing
+    Real-time_computing: 5.0
+Topic: 15| cluster_index: 23| cluster_weight: 9.0| weighted label: University_of_Southern_California
+    University_of_Southern_California: 2.2
+    Southern_California: 1.0

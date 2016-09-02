@@ -1,0 +1,9 @@
+Topic: 1| cluster_index: 2| word_count: 20.0| weighted_label: HTTP_Secure
+    HTTP_Secure: -1.07566139964
+    Web_page: -1.21929625853
+    HTTP_2.0: -1.31316055583
+    Loader_(computing): -1.88731426037
+Topic: 2| cluster_index: 0| word_count: 8.0| weighted_label: Round-trip_delay_time
+    Round-trip_delay_time: -0.0
+Topic: 3| cluster_index: 1| word_count: 5.0| weighted_label: Statistical_significance
+    Statistical_significance: -0.0

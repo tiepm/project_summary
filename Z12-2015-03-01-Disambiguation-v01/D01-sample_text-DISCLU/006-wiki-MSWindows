@@ -1,0 +1,64 @@
+Topic: 1| cluster_index: 21| word_count: 61.0| weighted_label: History_of_Microsoft_Windows
+    History_of_Microsoft_Windows: -0.658989255031
+    Comparison_of_Microsoft_Windows_versions: -0.789587951016
+    List_of_Microsoft_Windows_versions: -0.875018745743
+    Windows_1.0: -0.949126078246
+    Timeline_of_DOS_operating_systems: -0.953303627866
+Topic: 2| cluster_index: 19| word_count: 44.0| weighted_label: Windows_ME
+    Windows_ME: -0.648759504214
+    Windows_2000: -0.690455299122
+    File_Explorer: -0.697198276939
+    Control_Panel_(Windows): -0.753681764814
+Topic: 3| cluster_index: 10| word_count: 33.0| weighted_label: Technical_features_new_to_Windows_Vista
+    Technical_features_new_to_Windows_Vista: -0.0
+Topic: 4| cluster_index: 12| word_count: 32.0| weighted_label: Windows_Phone
+    Windows_Phone: -0.0
+Topic: 5| cluster_index: 8| word_count: 32.0| weighted_label: Windows_Embedded
+    Windows_Embedded: -0.0
+Topic: 6| cluster_index: 9| word_count: 32.0| weighted_label: Windows_Server
+    Windows_Server: -0.0
+Topic: 7| cluster_index: 7| word_count: 15.0| weighted_label: Software_versioning
+    Software_versioning: -0.0
+Topic: 8| cluster_index: 26| word_count: 15.0| weighted_label: High_memory_area
+    High_memory_area: -0.289128317954
+    Expanded_memory: -0.319598743766
+    Flat_memory_model: -0.367936280502
+Topic: 9| cluster_index: 13| word_count: 15.0| weighted_label: OpenVMS
+    OpenVMS: -0.0
+Topic: 10| cluster_index: 22| word_count: 14.0| weighted_label: Shell_(computing)
+    Shell_(computing): -0.222853413287
+    List_of_DOS_commands: -0.222853413287
+Topic: 11| cluster_index: 25| word_count: 12.0| weighted_label: Reference_(computer_science)
+    Reference_(computer_science): -0.197060771994
+    Garbage_collection_(computer_science): -0.197060771994
+Topic: 12| cluster_index: 20| word_count: 11.0| weighted_label: Personal_computer
+    Personal_computer: -0.242482869893
+    Macintosh: -0.242482869893
+Topic: 13| cluster_index: 23| word_count: 11.0| weighted_label: Widget_toolkit
+    Widget_toolkit: -0.21227252979
+    GUI_widget: -0.21227252979
+Topic: 14| cluster_index: 6| word_count: 10.0| weighted_label: Computer_memory
+    Computer_memory: -0.0
+Topic: 15| cluster_index: 14| word_count: 8.0| weighted_label: MS-DOS
+    MS-DOS: -0.0
+Topic: 16| cluster_index: 16| word_count: 7.0| weighted_label: VM/386
+    VM/386: -0.0
+Topic: 17| cluster_index: 27| word_count: 6.0| weighted_label: Apple_Lisa
+    Apple_Lisa: -0.142674334296
+    Apple_III: -0.142674334296
+Topic: 18| cluster_index: 15| word_count: 4.0| weighted_label: Keyboard_shortcut
+    Keyboard_shortcut: -0.0
+Topic: 19| cluster_index: 5| word_count: 4.0| weighted_label: Object_file
+    Object_file: -0.0
+Topic: 20| cluster_index: 28| word_count: 3.0| weighted_label: Cardfile
+    Cardfile: -0.116712839598
+    ClipBook_Viewer: -0.116712839598
+Topic: 21| cluster_index: 11| word_count: 3.0| weighted_label: Computing_platform
+    Computing_platform: -0.0
+Topic: 22| cluster_index: 18| word_count: 3.0| weighted_label: Modal_window
+    Modal_window: -0.0
+Topic: 23| cluster_index: 24| word_count: 2.0| weighted_label: Calculator_(Mac_OS)
+    Calculator_(Mac_OS): -0.208563038629
+    Calendar_(application): -0.208563038629
+Topic: 24| cluster_index: 17| word_count: 1.0| weighted_label: Terminal_(OS_X)
+    Terminal_(OS_X): -0.0

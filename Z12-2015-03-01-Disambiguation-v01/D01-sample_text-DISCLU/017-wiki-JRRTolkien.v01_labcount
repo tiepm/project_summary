@@ -1,0 +1,47 @@
+Topic: 1| cluster_index: 12| cluster_weight: 18.0| weighted label: Lower_Saxony
+    Lower_Saxony: 2.5
+    Old_Prussian_language: 2.3
+    West_Germany: 2.0
+    House_of_Hohenzollern: 1.0
+    Hamburg: 1.0
+    East_Prussia: 1.0
+Topic: 2| cluster_index: 11| cluster_weight: 14.0| weighted label: Merton_Professors
+    Merton_Professors: 2.5
+    Merton_College,_Oxford: 2.0
+    Rawlinson_and_Bosworth_Professor_of_Anglo-Saxon: 1.5
+    Middle-earth: 1.5
+    Hobbit: 1.0
+Topic: 3| cluster_index: 8| cluster_weight: 13.0| weighted label: List_of_English_writers
+    List_of_English_writers: 3.0
+    British_literature: 2.5
+    List_of_German-language_authors: 2.5
+    Literature: 2.0
+    Literary_adaptation: 1.0
+Topic: 4| cluster_index: 10| cluster_weight: 13.0| weighted label: English_language
+    English_language: 4.0
+    List_of_German_expressions_in_English: 1.2
+Topic: 5| cluster_index: 7| cluster_weight: 13.0| weighted label: Patrilineality
+    Patrilineality: 4.3
+Topic: 6| cluster_index: 14| cluster_weight: 7.0| weighted label: Social_structure_of_the_United_Kingdom
+    Social_structure_of_the_United_Kingdom: 1.3
+    Friendship: 1.0
+Topic: 7| cluster_index: 9| cluster_weight: 7.0| weighted label: British_Empire
+    British_Empire: 1.5
+    World_War_I: 1.5
+    Order_of_the_British_Empire: 1.0
+Topic: 8| cluster_index: 16| cluster_weight: 6.0| weighted label: Old_Saxony
+    Old_Saxony: 3.0
+    Anglo-Saxons: 1.0
+    History_of_England: 1.0
+Topic: 9| cluster_index: 5| cluster_weight: 6.0| weighted label: Zompist.com
+    Zompist.com: 3.0
+Topic: 10| cluster_index: 13| cluster_weight: 5.0| weighted label: Yale_Corporation
+    Yale_Corporation: 1.7
+    Pembroke_College_in_Brown_University: 1.5
+Topic: 11| cluster_index: 15| cluster_weight: 4.0| weighted label: Citation
+    Citation: 2.0
+    Internal_link: 1.0
+Topic: 12| cluster_index: 6| cluster_weight: 4.0| weighted label: Discussion_group
+    Discussion_group: 1.3
+Topic: 13| cluster_index: 4| cluster_weight: 1.0| weighted label: Politics_(poem)
+    Politics_(poem): 1.0

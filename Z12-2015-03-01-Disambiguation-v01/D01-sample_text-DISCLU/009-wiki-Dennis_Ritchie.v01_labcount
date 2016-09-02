@@ -1,0 +1,48 @@
+Topic: 1| cluster_index: 15| cluster_weight: 59.0| weighted label: Unix
+    Unix: 16.0
+    System_time: 16.0
+    Operating_system: 8.5
+    Digital_Research: 3.5
+    Programming_language: 3.3
+    Linux: 2.5
+    Berkeley_Software_Distribution: 2.0
+    Structured_programming: 1.5
+    Reflection_(computer_programming): 1.0
+Topic: 2| cluster_index: 17| cluster_weight: 48.0| weighted label: Software_development_methodology
+    Software_development_methodology: 10.0
+    Stevens_Award: 7.0
+Topic: 3| cluster_index: 12| cluster_weight: 41.0| weighted label: Turing_Award
+    Turing_Award: 4.0
+    National_Medal_of_Technology_and_Innovation: 3.7
+    IEEE_Richard_W._Hamming_Medal: 3.0
+    Industrial_Research_Institute: 2.3
+    Computer_History_Museum: 1.7
+    Switching_circuit_theory: 1.5
+    Summit_High_School_(New_Jersey): 1.3
+    Japan_Prize: 1.0
+Topic: 4| cluster_index: 13| cluster_weight: 40.0| weighted label: Systems_theory
+    Systems_theory: 9.0
+    Bell_Labs: 4.8
+    Technology: 4.0
+    Institute_of_Electrical_and_Electronics_Engineers: 3.0
+    Institution_of_Electrical_Engineers: 1.5
+    Electricity: 1.0
+    Electronic_engineering: 1.0
+    Communication: 1.0
+Topic: 5| cluster_index: 14| cluster_weight: 8.0| weighted label: Doctor_of_Philosophy
+    Doctor_of_Philosophy: 2.0
+    Harvard_University: 1.5
+    Thesis: 1.5
+Topic: 6| cluster_index: 7| cluster_weight: 7.0| weighted label: National_Medal_(Australia)
+    National_Medal_(Australia): 3.5
+Topic: 7| cluster_index: 16| cluster_weight: 4.0| weighted label: Information_Age
+    Information_Age: 1.5
+    Universal_design: 1.0
+Topic: 8| cluster_index: 11| cluster_weight: 2.0| weighted label: Computational_complexity_theory
+    Computational_complexity_theory: 1.0
+Topic: 9| cluster_index: 10| cluster_weight: 2.0| weighted label: Citation
+    Citation: 2.0
+Topic: 10| cluster_index: 8| cluster_weight: 1.0| weighted label: Contentment
+    Contentment: 1.0
+Topic: 11| cluster_index: 9| cluster_weight: 1.0| weighted label: Fellow_(computing)
+    Fellow_(computing): 1.0

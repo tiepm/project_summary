@@ -1,0 +1,136 @@
+Topic: 1| cluster_index: 57| word_count: 72.0| weighted_label: Peregrin_Took
+    Peregrin_Took: -0.689919607532
+    Boromir: -0.706635183615
+    Faramir: -0.729334809251
+    Meriadoc_Brandybuck: -0.741389739661
+    Minas_Tirith: -0.792262885088
+    Battle_of_the_Pelennor_Fields: -0.843129492194
+    Legolas: -0.849886883439
+    Samwise_Gamgee: -0.884646849808
+    Denethor: -0.946280077982
+Topic: 2| cluster_index: 65| word_count: 54.0| weighted_label: One_Ring
+    One_Ring: -0.101151647834
+    Mordor: -0.101151647834
+Topic: 3| cluster_index: 27| word_count: 52.0| weighted_label: War_of_the_Ring_(SPI_game)
+    War_of_the_Ring_(SPI_game): -0.0
+Topic: 4| cluster_index: 40| word_count: 51.0| weighted_label: The_Lord_of_the_Rings
+    The_Lord_of_the_Rings: -0.0
+Topic: 5| cluster_index: 19| word_count: 46.0| weighted_label: Lord_of_the_Rings:_Game_One
+    Lord_of_the_Rings:_Game_One: -0.0
+Topic: 6| cluster_index: 47| word_count: 46.0| weighted_label: Rings_of_Power
+    Rings_of_Power: -0.0
+Topic: 7| cluster_index: 56| word_count: 46.0| weighted_label: Minor_places_in_Middle-earth
+    Minor_places_in_Middle-earth: -0.331728225214
+    Aragorn: -0.344173623616
+    Gondor: -0.364484187168
+    List_of_Middle-earth_wars_and_battles: -0.383280020373
+    Gandalf: -0.441305358977
+Topic: 8| cluster_index: 30| word_count: 26.0| weighted_label: Frodo_Lives!
+    Frodo_Lives!: -0.0
+Topic: 9| cluster_index: 46| word_count: 19.0| weighted_label: Mouth_of_Sauron
+    Mouth_of_Sauron: -0.0
+Topic: 10| cluster_index: 60| word_count: 18.0| weighted_label: Misty_Mountains
+    Misty_Mountains: -0.276322818513
+    Anduin: -0.294107142551
+    Lindon_(Middle-earth): -0.301887420536
+    Rivendell: -0.309670114641
+Topic: 11| cluster_index: 29| word_count: 16.0| weighted_label: Works_inspired_by_J._R._R._Tolkien
+    Works_inspired_by_J._R._R._Tolkien: -0.0
+Topic: 12| cluster_index: 59| word_count: 16.0| weighted_label: Saruman
+    Saruman: -0.28183011923
+    Isengard: -0.290626270169
+    Rohan_(Middle-earth): -0.307938089655
+    Nazg%C3%BBl: -0.324329183337
+Topic: 13| cluster_index: 61| word_count: 13.0| weighted_label: Hobbit
+    Hobbit: -0.103810400048
+    Shire_(Middle-earth): -0.103810400048
+Topic: 14| cluster_index: 24| word_count: 12.0| weighted_label: High_fantasy
+    High_fantasy: -0.0
+Topic: 15| cluster_index: 44| word_count: 11.0| weighted_label: The_History_of_The_Lord_of_the_Rings
+    The_History_of_The_Lord_of_the_Rings: -0.0
+Topic: 16| cluster_index: 66| word_count: 11.0| weighted_label: Moria_(Middle-earth)
+    Moria_(Middle-earth): -0.174715129702
+    Dwarf_(Middle-earth): -0.197352461633
+    Balrog: -0.198610404163
+Topic: 17| cluster_index: 37| word_count: 10.0| weighted_label: Tolkien_fandom
+    Tolkien_fandom: -0.0
+Topic: 18| cluster_index: 53| word_count: 10.0| weighted_label: Bilbo_Baggins
+    Bilbo_Baggins: -0.0
+Topic: 19| cluster_index: 22| word_count: 9.0| weighted_label: Hobbit_Day
+    Hobbit_Day: -0.0
+Topic: 20| cluster_index: 68| word_count: 9.0| weighted_label: Fangorn
+    Fangorn: -0.0859818312426
+    Treebeard: -0.0859818312426
+Topic: 21| cluster_index: 16| word_count: 9.0| weighted_label: India_in_World_War_II
+    India_in_World_War_II: -0.0
+Topic: 22| cluster_index: 18| word_count: 8.0| weighted_label: Antagonist
+    Antagonist: -0.0
+Topic: 23| cluster_index: 28| word_count: 8.0| weighted_label: The_Lord_of_the_Rings:_The_Return_of_the_King_(video_game)
+    The_Lord_of_the_Rings:_The_Return_of_the_King_(video_game): -0.0
+Topic: 24| cluster_index: 63| word_count: 8.0| weighted_label: Mount_Doom
+    Mount_Doom: -0.101834510106
+    Shelob: -0.101834510106
+Topic: 25| cluster_index: 54| word_count: 8.0| weighted_label: Gollum
+    Gollum: -0.0
+Topic: 26| cluster_index: 67| word_count: 7.0| weighted_label: Rangers_of_the_North
+    Rangers_of_the_North: -0.0959429488636
+    Isildur: -0.0959429488636
+Topic: 27| cluster_index: 50| word_count: 7.0| weighted_label: Old_Forest
+    Old_Forest: -0.0
+Topic: 28| cluster_index: 34| word_count: 7.0| weighted_label: The_Lord_of_the_Rings_Strategy_Battle_Game
+    The_Lord_of_the_Rings_Strategy_Battle_Game: -0.0
+Topic: 29| cluster_index: 23| word_count: 7.0| weighted_label: Fan_edit
+    Fan_edit: -0.0
+Topic: 30| cluster_index: 58| word_count: 6.0| weighted_label: Paths_of_the_Dead
+    Paths_of_the_Dead: -0.108129716646
+    Corsairs_of_Umbar: -0.108129716646
+Topic: 31| cluster_index: 17| word_count: 6.0| weighted_label: Harry_Potter_and_the_Half-Blood_Prince
+    Harry_Potter_and_the_Half-Blood_Prince: -0.0
+Topic: 32| cluster_index: 25| word_count: 5.0| weighted_label: Dwarf_Fortress
+    Dwarf_Fortress: -0.0
+Topic: 33| cluster_index: 55| word_count: 5.0| weighted_label: Helm's_Deep
+    Helm's_Deep: -0.0
+Topic: 34| cluster_index: 15| word_count: 5.0| weighted_label: Oxford_University_Press
+    Oxford_University_Press: -0.0
+Topic: 35| cluster_index: 62| word_count: 4.0| weighted_label: Galadriel
+    Galadriel: -0.103765227864
+    Celeborn: -0.103765227864
+Topic: 36| cluster_index: 26| word_count: 4.0| weighted_label: FarmVille
+    FarmVille: -0.0
+Topic: 37| cluster_index: 45| word_count: 4.0| weighted_label: Red_Book_of_Westmarch
+    Red_Book_of_Westmarch: -0.0
+Topic: 38| cluster_index: 43| word_count: 4.0| weighted_label: Wizard_(Middle-earth)
+    Wizard_(Middle-earth): -0.0
+Topic: 39| cluster_index: 39| word_count: 4.0| weighted_label: Middle-earth
+    Middle-earth: -0.0
+Topic: 40| cluster_index: 64| word_count: 3.0| weighted_label: Caradhras
+    Caradhras: -0.101715161413
+    Minor_battles_in_The_Lord_of_the_Rings: -0.101715161413
+Topic: 41| cluster_index: 42| word_count: 3.0| weighted_label: Tom_Bombadil
+    Tom_Bombadil: -0.0
+Topic: 42| cluster_index: 48| word_count: 3.0| weighted_label: Aman
+    Aman: -0.0
+Topic: 43| cluster_index: 36| word_count: 3.0| weighted_label: Sting_(Middle-earth)
+    Sting_(Middle-earth): -0.0
+Topic: 44| cluster_index: 38| word_count: 2.0| weighted_label: Languages_constructed_by_J._R._R._Tolkien
+    Languages_constructed_by_J._R._R._Tolkien: -0.0
+Topic: 45| cluster_index: 21| word_count: 2.0| weighted_label: Citation
+    Citation: -0.0
+Topic: 46| cluster_index: 31| word_count: 2.0| weighted_label: Ranger_(Middle-earth)
+    Ranger_(Middle-earth): -0.0
+Topic: 47| cluster_index: 52| word_count: 2.0| weighted_label: List_of_Middle-earth_weapons_and_armour
+    List_of_Middle-earth_weapons_and_armour: -0.0
+Topic: 48| cluster_index: 20| word_count: 2.0| weighted_label: Internal_link
+    Internal_link: -0.0
+Topic: 49| cluster_index: 33| word_count: 2.0| weighted_label: Races_of_StarCraft
+    Races_of_StarCraft: -0.0
+Topic: 50| cluster_index: 35| word_count: 2.0| weighted_label: Huorn
+    Huorn: -0.0
+Topic: 51| cluster_index: 49| word_count: 1.0| weighted_label: Weathertop
+    Weathertop: -0.0
+Topic: 52| cluster_index: 41| word_count: 1.0| weighted_label: Watcher_in_the_Water
+    Watcher_in_the_Water: -0.0
+Topic: 53| cluster_index: 32| word_count: 1.0| weighted_label: Combine_(Half-Life)
+    Combine_(Half-Life): -0.0
+Topic: 54| cluster_index: 51| word_count: 1.0| weighted_label: List_of_Middle-earth_rivers
+    List_of_Middle-earth_rivers: -0.0

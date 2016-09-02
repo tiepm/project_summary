@@ -1,0 +1,129 @@
+Topic: 1| cluster_index: 37| word_count: 193.0| weighted_label: Recursive_Bayesian_estimation
+    Recursive_Bayesian_estimation: -2.63859864406
+    Covariance_intersection: -2.91042818978
+    Kalman_filter: -2.97845335317
+    Nonlinear_filter: -2.99160406127
+    Linear-quadratic-Gaussian_control: -2.99670302188
+    Recursive_filter: -3.00321627463
+    State_space_representation: -3.30490130836
+    Linear_belief_function: -3.39463504377
+    Linear_dynamical_system: -3.44681483062
+    Estimation_theory: -3.44727162999
+    Hidden_Markov_model: -3.49598083304
+    Bayesian_network: -3.74378066182
+Topic: 2| cluster_index: 41| word_count: 79.0| weighted_label: Gaussian_integral
+    Gaussian_integral: -0.31998497941
+    Nonlinear_Schr%C3%B6dinger_equation: -0.31998497941
+Topic: 3| cluster_index: 40| word_count: 78.0| weighted_label: Sensitivity_analysis
+    Sensitivity_analysis: -0.320412777535
+    Atmospheric_model: -0.320412777535
+Topic: 4| cluster_index: 39| word_count: 66.0| weighted_label: Phase_(matter)
+    Phase_(matter): -0.322792402553
+    Root-mean-square_speed: -0.322792402553
+Topic: 5| cluster_index: 42| word_count: 61.0| weighted_label: Errors_and_residuals_in_statistics
+    Errors_and_residuals_in_statistics: -1.06964382962
+    Normal_distribution: -1.13578801624
+    Correlation_and_dependence: -1.17117064402
+    Time_series: -1.26686086092
+    Estimation_of_covariance_matrices: -1.26773314891
+Topic: 6| cluster_index: 47| word_count: 54.0| weighted_label: Digital_filter
+    Digital_filter: -0.286559183365
+    Demodulation: -0.286559183365
+Topic: 7| cluster_index: 44| word_count: 51.0| weighted_label: Equation_of_state
+    Equation_of_state: -0.54206427326
+    Thermodynamic_system: -0.57270165992
+    State_variable: -0.595400321738
+Topic: 8| cluster_index: 38| word_count: 44.0| weighted_label: Control_theory
+    Control_theory: -1.12598658482
+    Dynamical_system: -1.15331784493
+    Nonlinear_system: -1.19937573607
+    Mathematical_model: -1.20945856311
+    Control_engineering: -1.22713321388
+Topic: 9| cluster_index: 43| word_count: 39.0| weighted_label: Global_Positioning_System
+    Global_Positioning_System: -0.298716191768
+    Navigation: -0.298716191768
+Topic: 10| cluster_index: 51| word_count: 36.0| weighted_label: Noise_(electronics)
+    Noise_(electronics): -0.433166328591
+    Signal-to-noise_ratio: -0.457144385478
+    Gain: -0.51000944322
+Topic: 11| cluster_index: 35| word_count: 34.0| weighted_label: International_Space_Station
+    International_Space_Station: -0.876883862033
+    Apollo_program: -0.933860651466
+    Space_Shuttle_program: -0.942082423589
+    Outer_space: -1.02390886644
+Topic: 12| cluster_index: 45| word_count: 34.0| weighted_label: Inertial_navigation_system
+    Inertial_navigation_system: -0.288248764296
+    Attitude_control: -0.288248764296
+Topic: 13| cluster_index: 54| word_count: 30.0| weighted_label: Navigation_system
+    Navigation_system: -0.217910475752
+    GPS/INS: -0.217910475752
+Topic: 14| cluster_index: 24| word_count: 30.0| weighted_label: Ground_Launched_Cruise_Missile
+    Ground_Launched_Cruise_Missile: -0.0
+Topic: 15| cluster_index: 32| word_count: 30.0| weighted_label: Macroeconomic_model
+    Macroeconomic_model: -0.939445098535
+    Factors_of_production: -1.05396313577
+    Zero-sum_game: -1.05777106843
+    Modern_portfolio_theory: -1.07339159756
+Topic: 16| cluster_index: 15| word_count: 29.0| weighted_label: New_states_of_Germany
+    New_states_of_Germany: -0.0
+Topic: 17| cluster_index: 50| word_count: 28.0| weighted_label: Measurement_problem
+    Measurement_problem: -0.261855300961
+    Uncertainty_principle: -0.261855300961
+Topic: 18| cluster_index: 52| word_count: 27.0| weighted_label: Low-gain_antenna
+    Low-gain_antenna: -0.393999473395
+    High-gain_antenna: -0.406054353437
+    Free-space_path_loss: -0.442401996103
+Topic: 19| cluster_index: 34| word_count: 26.0| weighted_label: Communism
+    Communism: -0.344143006748
+    Communist_state: -0.344143006748
+Topic: 20| cluster_index: 48| word_count: 25.0| weighted_label: Scientific_method
+    Scientific_method: -0.280800247571
+    Empirical_evidence: -0.280800247571
+Topic: 21| cluster_index: 53| word_count: 21.0| weighted_label: Orthogonal_group
+    Orthogonal_group: -0.220342333516
+    Representation_theory: -0.220342333516
+Topic: 22| cluster_index: 36| word_count: 21.0| weighted_label: Reference_(computer_science)
+    Reference_(computer_science): -0.593414980128
+    Recursion_(computer_science): -0.614731555594
+    Stream_(computing): -0.668116798678
+Topic: 23| cluster_index: 33| word_count: 20.0| weighted_label: Smoothing
+    Smoothing: -0.66887329604
+    Estimation: -0.676890351628
+    Prediction: -0.693306618443
+Topic: 24| cluster_index: 28| word_count: 20.0| weighted_label: Mathematics
+    Mathematics: -0.0
+Topic: 25| cluster_index: 46| word_count: 15.0| weighted_label: Cruise_missile
+    Cruise_missile: -0.466317495466
+    Tomahawk_(missile): -0.477979243587
+    Ballistic_missile_submarine: -0.575990041136
+Topic: 26| cluster_index: 16| word_count: 11.0| weighted_label: Demographic_transition
+    Demographic_transition: -0.0
+Topic: 27| cluster_index: 26| word_count: 10.0| weighted_label: Special_case
+    Special_case: -0.0
+Topic: 28| cluster_index: 17| word_count: 10.0| weighted_label: Real-time_computing
+    Real-time_computing: -0.0
+Topic: 29| cluster_index: 23| word_count: 10.0| weighted_label: Data_fusion
+    Data_fusion: -0.0
+Topic: 30| cluster_index: 22| word_count: 9.0| weighted_label: University_of_Southern_California
+    University_of_Southern_California: -0.0
+Topic: 31| cluster_index: 49| word_count: 8.0| weighted_label: Invariant_(physics)
+    Invariant_(physics): -0.269766926318
+    Newton's_laws_of_motion: -0.269766926318
+Topic: 32| cluster_index: 18| word_count: 8.0| weighted_label: Future_Combat_Systems_Manned_Ground_Vehicles
+    Future_Combat_Systems_Manned_Ground_Vehicles: -0.0
+Topic: 33| cluster_index: 30| word_count: 8.0| weighted_label: Quantity
+    Quantity: -0.0
+Topic: 34| cluster_index: 27| word_count: 5.0| weighted_label: Detection_theory
+    Detection_theory: -0.0
+Topic: 35| cluster_index: 29| word_count: 5.0| weighted_label: Ames_Research_Center
+    Ames_Research_Center: -0.0
+Topic: 36| cluster_index: 25| word_count: 5.0| weighted_label: Electronics
+    Electronics: -0.0
+Topic: 37| cluster_index: 21| word_count: 2.0| weighted_label: Southern_California
+    Southern_California: -0.0
+Topic: 38| cluster_index: 31| word_count: 2.0| weighted_label: Derivative
+    Derivative: -0.0
+Topic: 39| cluster_index: 20| word_count: 1.0| weighted_label: Asymptotically_optimal_algorithm
+    Asymptotically_optimal_algorithm: -0.0
+Topic: 40| cluster_index: 19| word_count: 1.0| weighted_label: Moscow
+    Moscow: -0.0

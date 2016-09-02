@@ -1,0 +1,55 @@
+Laplace's method
+From Wikipedia, the free encyclopedia
+
+See also: Additive smoothing (Laplace smoothing) a method of smoothing of a statistical estimator
+
+In mathematics, Laplace's method, named after Pierre-Simon Laplace, is a technique used to approximate integrals of the form
+
+    \int_a^b\! e^{M f(x)} \, dx 
+
+where ƒ(x) is some twice-differentiable function, M is a large number, and the integral endpoints a and b could possibly be infinite. This technique was originally presented in Laplace (1774, pp. 366–367).
+
+The idea of Laplace's method
+
+Assume that the function ƒ(x) has a unique global maximum at x0. Then, the value ƒ(x0) will be larger than other values ƒ(x). If we multiply this function by a large number M, the ratio between Mƒ(x0) and Mƒ(x) will stay the same (since Mƒ(x0)/Mƒ(x) = ƒ(x0)/ƒ(x)), but it will grow exponentially in the function (see figure)
+
+    e^{M f(x)}. \,
+
+Thus, significant contributions to the integral of this function will come only from points x in a neighborhood of x0, which can then be estimated.
+
+
+General theory of Laplace's method
+
+To state and motivate the method, we need several assumptions. We will assume that x0 is not an endpoint of the interval of integration, that the values ƒ(x) cannot be very close to ƒ(x0) unless x is close to x0, and that the second derivative f''(x_0)<0.
+
+We can expand ƒ(x) around x0 by Taylor's theorem,
+
+    f(x) = f(x_0) + f'(x_0)(x-x_0) + \frac{1}{2} f''(x_0)(x-x_0)^2 + R 
+
+    where R = O\left((x-x_0)^3\right).
+
+Since ƒ has a global maximum at x0, and since x0 is not an endpoint, it is a stationary point, so the derivative of ƒ vanishes at x0. Therefore, the function ƒ(x) may be approximated to quadratic order
+
+    f(x) \approx f(x_0) - \frac{1}{2} |f''(x_0)| (x-x_0)^2
+
+for x close to x0 (recall that the second derivative is negative at the global maximum ƒ(x0)). The assumptions made ensure the accuracy of the approximation
+
+    \int_a^b\! e^{M f(x)}\, dx\approx e^{M f(x_0)}\int_a^b e^{-M|f''(x_0)| (x-x_0)^2/2} \, dx
+
+(see the picture on the right). This latter integral is a Gaussian integral if the limits of integration go from −∞ to +∞ (which can be assumed because the exponential decays very fast away from x0), and thus it can be calculated. We find
+
+    \int_a^b\! e^{M f(x)}\, dx\approx \sqrt{\frac{2\pi}{M|f''(x_0)|}}e^{M f(x_0)} \text { as } M\to\infty. \,
+
+A generalization of this method and extension to arbitrary precision is provided by Fog (2008).
+
+Formal statement and proof:
+
+Assume that f(x) is a twice differentiable function on [a,b] with x_0 \in [a,b] the unique point such that f(x_0) = \max_{[a,b]} f(x) . Assume additionally that f''(x_0)<0 .
+
+Then,
+
+    \lim_{n \to +\infty} \left( \frac{\int_a^b e^{nf(x)} \, dx}{\left( e^{nf(x_0)}\sqrt{\frac{2 \pi}{n (-f''(x_0))}} \right)} \right) =1 
+
+
+
+

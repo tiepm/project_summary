@@ -1,0 +1,4 @@
+ 	
+Wireless and IP Platforms: Bell Labs Technology for SIP Overload Control Adopted in IETF (RFC 7339)
+Session Initiation Protocol (SIP) is the foundation for many Internet telephony systems today. SIP servers with insufficient resources to handle all SIP messages can enter an overload state in which they are no longer able to establish calls. Bell Labs identified this problem and developed a solution which has now been standardized by the IETF in RFC 7339. We conducted extensive simulations, designing the default algorithm and co-chairing the SIP overload working group. Overload control has been requested by many customers.
+Contact: Volker Hilt and Vijay K. Gurbani 

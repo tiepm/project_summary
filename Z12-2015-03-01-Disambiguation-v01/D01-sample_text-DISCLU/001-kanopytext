@@ -1,0 +1,30 @@
+Topic: 1| cluster_index: 9| word_count: 23.0| weighted_label: Natural_History_Museum,_London
+    Natural_History_Museum,_London: -0.456334077572
+    Royal_Society: -0.456334077572
+Topic: 2| cluster_index: 12| word_count: 23.0| weighted_label: Bengal_tiger
+    Bengal_tiger: -0.826807047636
+    Project_Tiger: -0.857943188567
+    Tiger: -0.957276054956
+    Tiger_hunting: -1.02816700323
+Topic: 3| cluster_index: 13| word_count: 14.0| weighted_label: Genetic_diversity
+    Genetic_diversity: -0.32090826174
+    Genetic_structure: -0.32090826174
+Topic: 4| cluster_index: 10| word_count: 10.0| weighted_label: British_Raj
+    British_Raj: -0.811262499196
+    Government_of_India: -0.827515568775
+    Bangalore: -0.827777794242
+Topic: 5| cluster_index: 11| word_count: 8.0| weighted_label: Biology
+    Biology: -0.386821553843
+    Biodiversity: -0.386821553843
+Topic: 6| cluster_index: 6| word_count: 6.0| weighted_label: Habitat_destruction
+    Habitat_destruction: -0.0
+Topic: 7| cluster_index: 7| word_count: 6.0| weighted_label: Cardiff_University
+    Cardiff_University: -0.0
+Topic: 8| cluster_index: 5| word_count: 5.0| weighted_label: Royal_Society_of_Victoria
+    Royal_Society_of_Victoria: -0.0
+Topic: 9| cluster_index: 8| word_count: 4.0| weighted_label: National_Centre_for_Biological_Sciences
+    National_Centre_for_Biological_Sciences: -0.0
+Topic: 10| cluster_index: 3| word_count: 3.0| weighted_label: Natural_History_Museum_(Ireland)
+    Natural_History_Museum_(Ireland): -0.0
+Topic: 11| cluster_index: 4| word_count: 1.0| weighted_label: Proceedings
+    Proceedings: -0.0

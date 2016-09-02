@@ -1,0 +1,97 @@
+Topic: 1| cluster_index: 43| word_count: 84.0| weighted_label: Control_flow
+    Control_flow: -1.79272384633
+    Imperative_programming: -1.84983010675
+    Scope_(computer_science): -1.85024029379
+    Parameter_(computer_programming): -1.86540359127
+    Subroutine: -1.93260419961
+    Conditional_(computer_programming): -1.95056705982
+    Reference_(computer_science): -1.96130374627
+    Pointer_(computer_programming): -1.99415355658
+    Return_statement: -2.01246105522
+    Type_system: -2.05239829593
+Topic: 2| cluster_index: 44| word_count: 28.0| weighted_label: Low-level_programming_language
+    Low-level_programming_language: -0.212269248036
+    High-level_assembler: -0.212269248036
+Topic: 3| cluster_index: 47| word_count: 20.0| weighted_label: Verilog
+    Verilog: -0.110299807511
+    Hardware_description_language: -0.110299807511
+Topic: 4| cluster_index: 11| word_count: 20.0| weighted_label: Opaque_data_type
+    Opaque_data_type: -0.0
+Topic: 5| cluster_index: 24| word_count: 19.0| weighted_label: Assembly_language
+    Assembly_language: -0.0
+Topic: 6| cluster_index: 13| word_count: 19.0| weighted_label: Language_construct
+    Language_construct: -0.0
+Topic: 7| cluster_index: 22| word_count: 18.0| weighted_label: Programming_tool
+    Programming_tool: -0.0
+Topic: 8| cluster_index: 45| word_count: 17.0| weighted_label: Enumerated_type
+    Enumerated_type: -0.208302044147
+    Void_type: -0.208302044147
+Topic: 9| cluster_index: 15| word_count: 17.0| weighted_label: Language
+    Language: -0.0
+Topic: 10| cluster_index: 46| word_count: 16.0| weighted_label: Unix
+    Unix: -0.202050930011
+    Operating_system: -0.202050930011
+Topic: 11| cluster_index: 19| word_count: 14.0| weighted_label: Java_syntax
+    Java_syntax: -0.0
+Topic: 12| cluster_index: 42| word_count: 13.0| weighted_label: Monad_(functional_programming)
+    Monad_(functional_programming): -0.234003055242
+    First-class_citizen: -0.234003055242
+Topic: 13| cluster_index: 25| word_count: 12.0| weighted_label: Null_Object_pattern
+    Null_Object_pattern: -0.0
+Topic: 14| cluster_index: 39| word_count: 12.0| weighted_label: PHP
+    PHP: -0.610387084993
+    JavaScript: -0.636233806163
+    Python_(programming_language): -0.637474701853
+    Cross-platform: -0.729175205744
+Topic: 15| cluster_index: 18| word_count: 11.0| weighted_label: Function_(mathematics)
+    Function_(mathematics): -0.0
+Topic: 16| cluster_index: 37| word_count: 11.0| weighted_label: Object_(computer_science)
+    Object_(computer_science): -0.0
+Topic: 17| cluster_index: 40| word_count: 10.0| weighted_label: American_National_Standards_Institute
+    American_National_Standards_Institute: -0.24241646779
+    International_Organization_for_Standardization: -0.24241646779
+Topic: 18| cluster_index: 36| word_count: 9.0| weighted_label: System_software
+    System_software: -0.0
+Topic: 19| cluster_index: 33| word_count: 9.0| weighted_label: Data_element
+    Data_element: -0.0
+Topic: 20| cluster_index: 34| word_count: 9.0| weighted_label: Data_model
+    Data_model: -0.0
+Topic: 21| cluster_index: 23| word_count: 8.0| weighted_label: Source_code
+    Source_code: -0.0
+Topic: 22| cluster_index: 12| word_count: 8.0| weighted_label: MIMIC
+    MIMIC: -0.0
+Topic: 23| cluster_index: 41| word_count: 7.0| weighted_label: Runtime_library
+    Runtime_library: -0.234015376086
+    Run_time_(program_lifecycle_phase): -0.234015376086
+Topic: 24| cluster_index: 16| word_count: 6.0| weighted_label: Computer_architecture_simulator
+    Computer_architecture_simulator: -0.0
+Topic: 25| cluster_index: 38| word_count: 6.0| weighted_label: Objective-C
+    Objective-C: -0.0
+Topic: 26| cluster_index: 27| word_count: 5.0| weighted_label: Computing_platform
+    Computing_platform: -0.0
+Topic: 27| cluster_index: 28| word_count: 5.0| weighted_label: Character_encoding
+    Character_encoding: -0.0
+Topic: 28| cluster_index: 31| word_count: 4.0| weighted_label: ALGOL
+    ALGOL: -0.0
+Topic: 29| cluster_index: 21| word_count: 3.0| weighted_label: Unix_shell
+    Unix_shell: -0.0
+Topic: 30| cluster_index: 35| word_count: 3.0| weighted_label: Multi-user
+    Multi-user: -0.0
+Topic: 31| cluster_index: 20| word_count: 3.0| weighted_label: SQL
+    SQL: -0.0
+Topic: 32| cluster_index: 9| word_count: 3.0| weighted_label: International_organization
+    International_organization: -0.0
+Topic: 33| cluster_index: 17| word_count: 3.0| weighted_label: Characteristic_(algebra)
+    Characteristic_(algebra): -0.0
+Topic: 34| cluster_index: 30| word_count: 3.0| weighted_label: Syntax_(programming_languages)
+    Syntax_(programming_languages): -0.0
+Topic: 35| cluster_index: 10| word_count: 2.0| weighted_label: ISO_image
+    ISO_image: -0.0
+Topic: 36| cluster_index: 29| word_count: 2.0| weighted_label: String_(computer_science)
+    String_(computer_science): -0.0
+Topic: 37| cluster_index: 26| word_count: 2.0| weighted_label: Library_(computing)
+    Library_(computing): -0.0
+Topic: 38| cluster_index: 32| word_count: 1.0| weighted_label: Pike_(programming_language)
+    Pike_(programming_language): -0.0
+Topic: 39| cluster_index: 14| word_count: 1.0| weighted_label: Standard_language
+    Standard_language: -0.0

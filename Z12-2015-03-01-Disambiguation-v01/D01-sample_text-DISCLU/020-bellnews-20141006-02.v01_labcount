@@ -1,0 +1,6 @@
+Topic: 1| cluster_index: 1| cluster_weight: 14.0| weighted label: IP_Multimedia_Subsystem
+    IP_Multimedia_Subsystem: 3.0
+    Session_Initiation_Protocol: 1.0
+    Voice_over_IP: 1.0
+Topic: 2| cluster_index: 0| cluster_weight: 5.0| weighted label: Bell_Labs
+    Bell_Labs: 1.7

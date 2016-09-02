@@ -1,0 +1,101 @@
+Topic: 1| cluster_index: 50| word_count: 72.0| weighted_label: Xubuntu
+    Xubuntu: -0.816425046295
+    Lubuntu: -0.832468200333
+    List_of_Ubuntu_releases: -0.865912082424
+    Unity_(user_interface): -0.963285235338
+    Ubuntu_Netbook_Edition: -0.984301396145
+    Canonical_Ltd.: -1.00467050175
+Topic: 2| cluster_index: 48| word_count: 63.0| weighted_label: Ubuntu_(operating_system)
+    Ubuntu_(operating_system): -0.499018897815
+    Debian: -0.505379853605
+    Linux_distribution: -0.530610995335
+    GNOME: -0.646551319372
+Topic: 3| cluster_index: 49| word_count: 40.0| weighted_label: Uncomplicated_Firewall
+    Uncomplicated_Firewall: -0.518996586103
+    Ubuntu_Foundation: -0.583354455569
+    Ubiquity_(software): -0.607383349094
+    Polkit: -0.627884370522
+Topic: 4| cluster_index: 46| word_count: 30.0| weighted_label: Long-term_support
+    Long-term_support: -0.227767399339
+    Point_release: -0.227767399339
+Topic: 5| cluster_index: 41| word_count: 26.0| weighted_label: Package_format
+    Package_format: -0.0
+Topic: 6| cluster_index: 47| word_count: 18.0| weighted_label: Advanced_Packaging_Tool
+    Advanced_Packaging_Tool: -0.318328238039
+    Synaptic_(software): -0.352537991221
+    Package_(package_management_system): -0.43106625699
+Topic: 7| cluster_index: 36| word_count: 16.0| weighted_label: Wine_(software)
+    Wine_(software): -0.0
+Topic: 8| cluster_index: 43| word_count: 14.0| weighted_label: Linux
+    Linux: -0.0
+Topic: 9| cluster_index: 25| word_count: 14.0| weighted_label: Technical_support
+    Technical_support: -0.0
+Topic: 10| cluster_index: 13| word_count: 13.0| weighted_label: Desktop_Management_Interface
+    Desktop_Management_Interface: -0.0
+Topic: 11| cluster_index: 38| word_count: 12.0| weighted_label: Open_source
+    Open_source: -0.0
+Topic: 12| cluster_index: 17| word_count: 12.0| weighted_label: Third-party_software_component
+    Third-party_software_component: -0.0
+Topic: 13| cluster_index: 42| word_count: 12.0| weighted_label: Free_software
+    Free_software: -0.0
+Topic: 14| cluster_index: 12| word_count: 11.0| weighted_label: Range_Software
+    Range_Software: -0.0
+Topic: 15| cluster_index: 33| word_count: 9.0| weighted_label: Cloud_computing
+    Cloud_computing: -0.0
+Topic: 16| cluster_index: 14| word_count: 8.0| weighted_label: Security_interest
+    Security_interest: -0.0
+Topic: 17| cluster_index: 40| word_count: 8.0| weighted_label: Open_security
+    Open_security: -0.0
+Topic: 18| cluster_index: 31| word_count: 7.0| weighted_label: Patch_(computing)
+    Patch_(computing): -0.0
+Topic: 19| cluster_index: 20| word_count: 7.0| weighted_label: Chinese_character_encoding
+    Chinese_character_encoding: -0.0
+Topic: 20| cluster_index: 35| word_count: 5.0| weighted_label: GNU_Compiler_Collection
+    GNU_Compiler_Collection: -0.0
+Topic: 21| cluster_index: 39| word_count: 5.0| weighted_label: Principle_of_least_privilege
+    Principle_of_least_privilege: -0.0
+Topic: 22| cluster_index: 30| word_count: 4.0| weighted_label: Windows_ME
+    Windows_ME: -0.0
+Topic: 23| cluster_index: 37| word_count: 4.0| weighted_label: Microsoft_Office_2000
+    Microsoft_Office_2000: -0.0
+Topic: 24| cluster_index: 26| word_count: 4.0| weighted_label: GNOME_Disks
+    GNOME_Disks: -0.0
+Topic: 25| cluster_index: 18| word_count: 4.0| weighted_label: Undocumented_feature
+    Undocumented_feature: -0.0
+Topic: 26| cluster_index: 15| word_count: 4.0| weighted_label: Installed_base
+    Installed_base: -0.0
+Topic: 27| cluster_index: 32| word_count: 3.0| weighted_label: Buffer_overflow_protection
+    Buffer_overflow_protection: -0.0
+Topic: 28| cluster_index: 52| word_count: 3.0| weighted_label: VirtualBox
+    VirtualBox: -0.125628836894
+    VMware_Workstation: -0.125628836894
+Topic: 29| cluster_index: 27| word_count: 3.0| weighted_label: User_(computing)
+    User_(computing): -0.0
+Topic: 30| cluster_index: 34| word_count: 3.0| weighted_label: Amazon_Elastic_Compute_Cloud
+    Amazon_Elastic_Compute_Cloud: -0.0
+Topic: 31| cluster_index: 44| word_count: 3.0| weighted_label: Microsoft_Office
+    Microsoft_Office: -0.0
+Topic: 32| cluster_index: 19| word_count: 3.0| weighted_label: Latin_script
+    Latin_script: -0.0
+Topic: 33| cluster_index: 16| word_count: 3.0| weighted_label: Consumer_Electronics_Show
+    Consumer_Electronics_Show: -0.0
+Topic: 34| cluster_index: 51| word_count: 2.0| weighted_label: ARM_architecture
+    ARM_architecture: -0.177935585055
+    PowerPC: -0.177935585055
+Topic: 35| cluster_index: 53| word_count: 2.0| weighted_label: Empathy_(software)
+    Empathy_(software): -0.123661370782
+    Pidgin_(software): -0.123661370782
+Topic: 36| cluster_index: 23| word_count: 2.0| weighted_label: Internal_link
+    Internal_link: -0.0
+Topic: 37| cluster_index: 29| word_count: 2.0| weighted_label: Graphical_user_interface
+    Graphical_user_interface: -0.0
+Topic: 38| cluster_index: 28| word_count: 1.0| weighted_label: Server_(computing)
+    Server_(computing): -0.0
+Topic: 39| cluster_index: 24| word_count: 1.0| weighted_label: Citation
+    Citation: -0.0
+Topic: 40| cluster_index: 22| word_count: 1.0| weighted_label: Firefox_OS
+    Firefox_OS: -0.0
+Topic: 41| cluster_index: 21| word_count: 1.0| weighted_label: Execution_(computing)
+    Execution_(computing): -0.0
+Topic: 42| cluster_index: 45| word_count: 1.0| weighted_label: LibreOffice
+    LibreOffice: -0.0

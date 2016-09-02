@@ -1,0 +1,75 @@
+Topic: 1| cluster_index: 31| word_count: 51.0| weighted_label: Alzheimer's_Research_UK
+    Alzheimer's_Research_UK: -1.17418413921
+    127005_Pratchett: -1.20835708919
+    Rowberrow: -1.31355265289
+    John_Hampden_Grammar_School: -1.52219672578
+    Broad_Chalke: -1.56757683462
+    Early-onset_Alzheimer's_disease: -1.66682688778
+Topic: 2| cluster_index: 33| word_count: 32.0| weighted_label: Discworld
+    Discworld: -0.198746794391
+    Flora_and_fauna_of_the_Discworld: -0.198746794391
+Topic: 3| cluster_index: 25| word_count: 22.0| weighted_label: World_Fantasy_Award
+    World_Fantasy_Award: -0.934260698913
+    World_Fantasy_Award_for_Life_Achievement: -1.05983783139
+    Science_fiction_convention: -1.10975114954
+    Victor_Gollancz_Ltd: -1.21249649169
+Topic: 4| cluster_index: 29| word_count: 21.0| weighted_label: Novelist
+    Novelist: -0.365755707957
+    Bestseller: -0.365755707957
+Topic: 5| cluster_index: 28| word_count: 17.0| weighted_label: Fantasy_literature
+    Fantasy_literature: -0.660816180864
+    Young-adult_fiction: -0.712288356516
+    HarperCollins: -0.770493797652
+Topic: 6| cluster_index: 26| word_count: 11.0| weighted_label: Knight_Bachelor
+    Knight_Bachelor: -0.704684903907
+    Order_of_the_British_Empire: -0.754273330142
+    Buckingham_Palace: -0.802846316796
+Topic: 7| cluster_index: 16| word_count: 9.0| weighted_label: Fantasy_author
+    Fantasy_author: -0.0
+Topic: 8| cluster_index: 35| word_count: 8.0| weighted_label: British_Humanist_Association
+    British_Humanist_Association: -0.145976288607
+    National_Secular_Society: -0.145976288607
+Topic: 9| cluster_index: 34| word_count: 8.0| weighted_label: GCE_Ordinary_Level
+    GCE_Ordinary_Level: -0.159957114023
+    GCE_Advanced_Level: -0.159957114023
+Topic: 10| cluster_index: 18| word_count: 8.0| weighted_label: List_of_English_writers
+    List_of_English_writers: -0.0
+Topic: 11| cluster_index: 10| word_count: 7.0| weighted_label: Three_Mile_Island_accident
+    Three_Mile_Island_accident: -0.0
+Topic: 12| cluster_index: 8| word_count: 7.0| weighted_label: Free_Press_(organization)
+    Free_Press_(organization): -0.0
+Topic: 13| cluster_index: 22| word_count: 6.0| weighted_label: Public_library
+    Public_library: -0.0
+Topic: 14| cluster_index: 14| word_count: 5.0| weighted_label: Children's_Hour
+    Children's_Hour: -0.0
+Topic: 15| cluster_index: 27| word_count: 4.0| weighted_label: Hay-on-Wye
+    Hay-on-Wye: -0.393395672891
+    Bridgwater: -0.393395672891
+Topic: 16| cluster_index: 20| word_count: 4.0| weighted_label: Central_Electricity_Generating_Board
+    Central_Electricity_Generating_Board: -0.0
+Topic: 17| cluster_index: 30| word_count: 4.0| weighted_label: Transworld_Publishers
+    Transworld_Publishers: -0.349512700108
+    Imprint: -0.349512700108
+Topic: 18| cluster_index: 9| word_count: 4.0| weighted_label: British_Empire
+    British_Empire: -0.0
+Topic: 19| cluster_index: 21| word_count: 3.0| weighted_label: Carnegie_Medal_(literary_award)
+    Carnegie_Medal_(literary_award): -0.0
+Topic: 20| cluster_index: 11| word_count: 3.0| weighted_label: Solar_cell
+    Solar_cell: -0.0
+Topic: 21| cluster_index: 13| word_count: 3.0| weighted_label: Britons_(Celtic_people)
+    Britons_(Celtic_people): -0.0
+Topic: 22| cluster_index: 32| word_count: 3.0| weighted_label: Beaconsfield
+    Beaconsfield: -0.28809352382
+    Buckinghamshire: -0.28809352382
+Topic: 23| cluster_index: 19| word_count: 3.0| weighted_label: English_studies
+    English_studies: -0.0
+Topic: 24| cluster_index: 24| word_count: 1.0| weighted_label: Wiltshire
+    Wiltshire: -0.0
+Topic: 25| cluster_index: 17| word_count: 1.0| weighted_label: Literary_adaptation
+    Literary_adaptation: -0.0
+Topic: 26| cluster_index: 15| word_count: 1.0| weighted_label: BBC
+    BBC: -0.0
+Topic: 27| cluster_index: 12| word_count: 1.0| weighted_label: Stratum_(linguistics)
+    Stratum_(linguistics): -0.0
+Topic: 28| cluster_index: 23| word_count: 1.0| weighted_label: Reference_work
+    Reference_work: -0.0

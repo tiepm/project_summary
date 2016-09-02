@@ -1,0 +1,108 @@
+Topic: 1| cluster_index: 34| cluster_weight: 194.0| weighted label: Beethoven_and_Mozart
+    Beethoven_and_Mozart: 67.0
+    String_quintet: 34.0
+    Quintet_for_Piano_and_Winds_(Mozart): 27.7
+    List_of_compositions_by_Ludwig_van_Beethoven: 25.7
+    Beethoven's_musical_style: 25.0
+    List_of_compositions_by_Wolfgang_Amadeus_Mozart: 15.0
+    Piano_sonatas_(Beethoven): 11.0
+    Piano_Trios,_Op._70_(Beethoven): 8.0
+    Opus_number: 7.7
+    Variations_on_a_Theme_by_Haydn: 6.5
+    Piano_Sonata_No._14_(Beethoven): 5.3
+    Nannerl_Notenbuch: 3.0
+    House_of_Waldstein: 3.0
+    House_of_Lobkowicz: 3.0
+    Septet_(Beethoven): 2.0
+    Classical_period_(music): 2.0
+    Immortal_Beloved: 1.0
+    The_Well-Tempered_Clavier: 1.0
+    Missa_solemnis_(Beethoven): 1.0
+    Allgemeine_musikalische_Zeitung: 1.0
+    Christ_on_the_Mount_of_Olives_(Beethoven): 1.0
+Topic: 2| cluster_index: 44| cluster_weight: 77.0| weighted label: Adolescence
+    Adolescence: 34.0
+    Friendship: 4.5
+Topic: 3| cluster_index: 41| cluster_weight: 74.0| weighted label: Nonsyndromic_deafness
+    Nonsyndromic_deafness: 34.0
+    Hearing_loss: 3.0
+Topic: 4| cluster_index: 38| cluster_weight: 59.0| weighted label: Piano
+    Piano: 15.0
+    Music_education: 8.0
+    Chamber_music: 5.5
+    Orchestra: 5.5
+    Classical_music: 4.3
+    Accompaniment: 1.0
+    Musicology: 1.0
+Topic: 5| cluster_index: 42| cluster_weight: 40.0| weighted label: Choral_symphony
+    Choral_symphony: 10.0
+    Program_music: 4.0
+    Late_works_of_Franz_Liszt: 3.0
+    Kapellmeister: 2.0
+Topic: 6| cluster_index: 36| cluster_weight: 29.0| weighted label: Bonn
+    Bonn: 11.0
+    Roman_Catholic_Diocese_of_Trier: 3.3
+    Cologne: 2.0
+    Holy_Roman_Empire: 1.3
+    Electorate_of_Cologne: 1.3
+    Electorate_of_Bavaria: 1.0
+Topic: 7| cluster_index: 35| cluster_weight: 20.0| weighted label: Work_of_art
+    Work_of_art: 19.0
+    Writing: 10.0
+Topic: 8| cluster_index: 23| cluster_weight: 19.0| weighted label: Piano_Concerto_(Busoni)
+    Piano_Concerto_(Busoni): 9.5
+Topic: 9| cluster_index: 24| cluster_weight: 14.0| weighted label: Mozart_in_Italy
+    Mozart_in_Italy: 4.7
+Topic: 10| cluster_index: 46| cluster_weight: 13.0| weighted label: Vienna
+    Vienna: 12.0
+    Austria: 1.0
+Topic: 11| cluster_index: 30| cluster_weight: 11.0| weighted label: Music_director
+    Music_director: 5.5
+Topic: 12| cluster_index: 25| cluster_weight: 11.0| weighted label: Christmas
+    Christmas: 5.5
+Topic: 13| cluster_index: 20| cluster_weight: 10.0| weighted label: Hannoversche_Hofkapelle
+    Hannoversche_Hofkapelle: 5.0
+Topic: 14| cluster_index: 40| cluster_weight: 10.0| weighted label: Joseph_and_his_Brethren
+    Joseph_and_his_Brethren: 4.0
+    Christmas_Oratorio: 1.0
+Topic: 15| cluster_index: 39| cluster_weight: 9.0| weighted label: Aging_of_wine
+    Aging_of_wine: 4.0
+    Cooper_(profession): 1.0
+Topic: 16| cluster_index: 33| cluster_weight: 9.0| weighted label: Musical_theatre
+    Musical_theatre: 4.0
+    Theater_(structure): 1.0
+Topic: 17| cluster_index: 28| cluster_weight: 8.0| weighted label: Progeroid_syndromes
+    Progeroid_syndromes: 4.0
+Topic: 18| cluster_index: 18| cluster_weight: 8.0| weighted label: Financier
+    Financier: 4.0
+Topic: 19| cluster_index: 37| cluster_weight: 6.0| weighted label: Catholic_Church_in_England_and_Wales
+    Catholic_Church_in_England_and_Wales: 1.7
+    England_in_the_Middle_Ages: 1.0
+Topic: 20| cluster_index: 47| cluster_weight: 6.0| weighted label: Autoimmune_disease
+    Autoimmune_disease: 1.0
+    Systemic_lupus_erythematosus: 1.0
+Topic: 21| cluster_index: 45| cluster_weight: 5.0| weighted label: List_of_Viennese
+    List_of_Viennese: 1.0
+    Burgtheater: 1.0
+    Theater_an_der_Wien: 1.0
+Topic: 22| cluster_index: 32| cluster_weight: 5.0| weighted label: Romanticism
+    Romanticism: 1.0
+    Age_of_Enlightenment: 1.0
+    Prometheus_(Goethe): 1.0
+Topic: 23| cluster_index: 31| cluster_weight: 4.0| weighted label: Germans
+    Germans: 4.0
+Topic: 24| cluster_index: 22| cluster_weight: 2.0| weighted label: London
+    London: 2.0
+Topic: 25| cluster_index: 43| cluster_weight: 2.0| weighted label: Table_of_contents
+    Table_of_contents: 1.0
+    Citation: 1.0
+Topic: 26| cluster_index: 19| cluster_weight: 2.0| weighted label: Oxford_Art_Online
+    Oxford_Art_Online: 1.0
+Topic: 27| cluster_index: 21| cluster_weight: 1.0| weighted label: France
+    France: 1.0
+Topic: 28| cluster_index: 26| cluster_weight: 1.0| weighted label: Mechelen
+    Mechelen: 1.0
+Topic: 29| cluster_index: 27| cluster_weight: 1.0| weighted label: Patronage
+    Patronage: 1.0
+Topic: 30| cluster_index: 29| cluster_weight: 1.0| weighted label: Review
+    Review: 1.0
