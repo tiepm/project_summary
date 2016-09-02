@@ -4,11 +4,14 @@ Example usage
 - Extract data archives:
     
     data02-KEA2-train.zip: Training inputs
+    
     data02-KEA2-PP-train-label.zip: Training labels
+    
     data02.zip: New data inputs
 - Clean data
     
     python 004-04A-KEA2-PP.py data02-KEA2-train/ data02-KEA2-PP-train
+    
     python 004-04A-KEA2-PP.py data02/ data02-KEA2-PP/
 - Train
     
@@ -19,6 +22,7 @@ Example usage
 - Clean up temp db files
     
     rm *.db
+    
     rm *.db___LOCK
 
 
